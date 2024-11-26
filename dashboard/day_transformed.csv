@@ -1,0 +1,1463 @@
+dteday,season,yr,mnth,weathersit,holiday,weekday,workingday,temp,hum,windspeed,variable,value,month
+2011-01-01,springer,0,1,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.344167,0.805833,0.160446,casual,331,January
+2011-01-02,springer,0,1,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.363478,0.696087,0.248539,casual,131,January
+2011-01-03,springer,0,1,Cerah,Tidak Libur,Senin,Hari Kerja,0.196364,0.437273,0.248309,casual,120,January
+2011-01-04,springer,0,1,Cerah,Tidak Libur,Selasa,Hari Kerja,0.2,0.590435,0.160296,casual,108,January
+2011-01-05,springer,0,1,Cerah,Tidak Libur,Rabu,Hari Kerja,0.226957,0.436957,0.1869,casual,82,January
+2011-01-06,springer,0,1,Cerah,Tidak Libur,Kamis,Hari Kerja,0.204348,0.518261,0.0895652,casual,88,January
+2011-01-07,springer,0,1,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.196522,0.498696,0.168726,casual,148,January
+2011-01-08,springer,0,1,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.165,0.535833,0.266804,casual,68,January
+2011-01-09,springer,0,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.138333,0.434167,0.36195,casual,54,January
+2011-01-10,springer,0,1,Cerah,Tidak Libur,Senin,Hari Kerja,0.150833,0.482917,0.223267,casual,41,January
+2011-01-11,springer,0,1,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.169091,0.686364,0.122132,casual,43,January
+2011-01-12,springer,0,1,Cerah,Tidak Libur,Rabu,Hari Kerja,0.172727,0.599545,0.304627,casual,25,January
+2011-01-13,springer,0,1,Cerah,Tidak Libur,Kamis,Hari Kerja,0.165,0.470417,0.301,casual,38,January
+2011-01-14,springer,0,1,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.16087,0.537826,0.126548,casual,54,January
+2011-01-15,springer,0,1,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.233333,0.49875,0.157963,casual,222,January
+2011-01-16,springer,0,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.231667,0.48375,0.188433,casual,251,January
+2011-01-17,springer,0,1,Berkabut,Libur,Senin,Bukan Hari Kerja,0.175833,0.5375,0.194017,casual,117,January
+2011-01-18,springer,0,1,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.216667,0.861667,0.146775,casual,9,January
+2011-01-19,springer,0,1,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.292174,0.741739,0.208317,casual,78,January
+2011-01-20,springer,0,1,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.261667,0.538333,0.195904,casual,83,January
+2011-01-21,springer,0,1,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.1775,0.457083,0.353242,casual,75,January
+2011-01-22,springer,0,1,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.0591304,0.4,0.17197,casual,93,January
+2011-01-23,springer,0,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.0965217,0.436522,0.2466,casual,150,January
+2011-01-24,springer,0,1,Cerah,Tidak Libur,Senin,Hari Kerja,0.0973913,0.491739,0.15833,casual,86,January
+2011-01-25,springer,0,1,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.223478,0.616957,0.129796,casual,186,January
+2011-01-26,springer,0,1,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.2175,0.8625,0.29385,casual,34,January
+2011-01-27,springer,0,1,Cerah,Tidak Libur,Kamis,Hari Kerja,0.195,0.6875,0.113837,casual,15,January
+2011-01-28,springer,0,1,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.203478,0.793043,0.1233,casual,38,January
+2011-01-29,springer,0,1,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.196522,0.651739,0.145365,casual,123,January
+2011-01-30,springer,0,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.216522,0.722174,0.0739826,casual,140,January
+2011-01-31,springer,0,1,Berkabut,Tidak Libur,Senin,Hari Kerja,0.180833,0.60375,0.187192,casual,42,January
+2011-02-01,springer,0,2,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.192174,0.829565,0.053213,casual,47,February
+2011-02-02,springer,0,2,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.26,0.775417,0.264308,casual,72,February
+2011-02-03,springer,0,2,Cerah,Tidak Libur,Kamis,Hari Kerja,0.186957,0.437826,0.277752,casual,61,February
+2011-02-04,springer,0,2,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.211304,0.585217,0.127839,casual,88,February
+2011-02-05,springer,0,2,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.233333,0.929167,0.161079,casual,100,February
+2011-02-06,springer,0,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.285833,0.568333,0.1418,casual,354,February
+2011-02-07,springer,0,2,Cerah,Tidak Libur,Senin,Hari Kerja,0.271667,0.738333,0.0454083,casual,120,February
+2011-02-08,springer,0,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.220833,0.537917,0.36195,casual,64,February
+2011-02-09,springer,0,2,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.134783,0.494783,0.188839,casual,53,February
+2011-02-10,springer,0,2,Cerah,Tidak Libur,Kamis,Hari Kerja,0.144348,0.437391,0.221935,casual,47,February
+2011-02-11,springer,0,2,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.189091,0.506364,0.10855,casual,149,February
+2011-02-12,springer,0,2,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.2225,0.544167,0.203367,casual,288,February
+2011-02-13,springer,0,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.316522,0.457391,0.260883,casual,397,February
+2011-02-14,springer,0,2,Cerah,Tidak Libur,Senin,Hari Kerja,0.415,0.375833,0.417908,casual,208,February
+2011-02-15,springer,0,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.266087,0.314348,0.291374,casual,140,February
+2011-02-16,springer,0,2,Cerah,Tidak Libur,Rabu,Hari Kerja,0.318261,0.423478,0.251791,casual,218,February
+2011-02-17,springer,0,2,Cerah,Tidak Libur,Kamis,Hari Kerja,0.435833,0.505,0.230104,casual,259,February
+2011-02-18,springer,0,2,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.521667,0.516667,0.264925,casual,579,February
+2011-02-19,springer,0,2,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.399167,0.187917,0.507463,casual,532,February
+2011-02-20,springer,0,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.285217,0.407826,0.223235,casual,639,February
+2011-02-21,springer,0,2,Berkabut,Libur,Senin,Bukan Hari Kerja,0.303333,0.605,0.307846,casual,195,February
+2011-02-22,springer,0,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.182222,0.577778,0.195683,casual,74,February
+2011-02-23,springer,0,2,Cerah,Tidak Libur,Rabu,Hari Kerja,0.221739,0.423043,0.094113,casual,139,February
+2011-02-24,springer,0,2,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.295652,0.697391,0.250496,casual,100,February
+2011-02-25,springer,0,2,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.364348,0.712174,0.346539,casual,120,February
+2011-02-26,springer,0,2,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.2825,0.537917,0.186571,casual,424,February
+2011-02-27,springer,0,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.343478,0.68,0.125248,casual,694,February
+2011-02-28,springer,0,2,Berkabut,Tidak Libur,Senin,Hari Kerja,0.407273,0.876364,0.289686,casual,81,February
+2011-03-01,springer,0,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.266667,0.535,0.216425,casual,137,March
+2011-03-02,springer,0,3,Cerah,Tidak Libur,Rabu,Hari Kerja,0.335,0.449583,0.307833,casual,231,March
+2011-03-03,springer,0,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.198333,0.318333,0.225754,casual,123,March
+2011-03-04,springer,0,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.261667,0.610417,0.203346,casual,214,March
+2011-03-05,springer,0,3,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.384167,0.789167,0.251871,casual,640,March
+2011-03-06,springer,0,3,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.376522,0.948261,0.343287,casual,114,March
+2011-03-07,springer,0,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.261739,0.551304,0.341352,casual,244,March
+2011-03-08,springer,0,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.2925,0.420833,0.12065,casual,316,March
+2011-03-09,springer,0,3,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.295833,0.775417,0.22015,casual,191,March
+2011-03-10,springer,0,3,Hujan Ringan,Tidak Libur,Kamis,Hari Kerja,0.389091,0.0,0.261877,casual,46,March
+2011-03-11,springer,0,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.316522,0.649565,0.23297,casual,247,March
+2011-03-12,springer,0,3,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.329167,0.594583,0.220775,casual,724,March
+2011-03-13,springer,0,3,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.384348,0.527391,0.270604,casual,982,March
+2011-03-14,springer,0,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.325217,0.496957,0.136926,casual,359,March
+2011-03-15,springer,0,3,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.317391,0.655652,0.184309,casual,289,March
+2011-03-16,springer,0,3,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.365217,0.776522,0.203117,casual,321,March
+2011-03-17,springer,0,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.415,0.602917,0.209579,casual,424,March
+2011-03-18,springer,0,3,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.54,0.525217,0.231017,casual,884,March
+2011-03-19,springer,0,3,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.4725,0.379167,0.368167,casual,1424,March
+2011-03-20,springer,0,3,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.3325,0.47375,0.207721,casual,1047,March
+2011-03-21,summer,0,3,Berkabut,Tidak Libur,Senin,Hari Kerja,0.430435,0.737391,0.288783,casual,401,March
+2011-03-22,summer,0,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.441667,0.624583,0.22575,casual,460,March
+2011-03-23,summer,0,3,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.346957,0.839565,0.234261,casual,203,March
+2011-03-24,summer,0,3,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.285,0.805833,0.243787,casual,166,March
+2011-03-25,summer,0,3,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.264167,0.495,0.230725,casual,300,March
+2011-03-26,summer,0,3,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.265833,0.394167,0.209571,casual,981,March
+2011-03-27,summer,0,3,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.253043,0.493913,0.1843,casual,472,March
+2011-03-28,summer,0,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.264348,0.302174,0.212204,casual,222,March
+2011-03-29,summer,0,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.3025,0.314167,0.226996,casual,317,March
+2011-03-30,summer,0,3,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.3,0.646667,0.172888,casual,168,March
+2011-03-31,summer,0,3,Hujan Ringan,Tidak Libur,Kamis,Hari Kerja,0.268333,0.918333,0.217646,casual,179,March
+2011-04-01,summer,0,4,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.3,0.68625,0.258708,casual,307,April
+2011-04-02,summer,0,4,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.315,0.65375,0.197146,casual,898,April
+2011-04-03,summer,0,4,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.378333,0.48,0.182213,casual,1651,April
+2011-04-04,summer,0,4,Cerah,Tidak Libur,Senin,Hari Kerja,0.573333,0.42625,0.385571,casual,734,April
+2011-04-05,summer,0,4,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.414167,0.642083,0.388067,casual,167,April
+2011-04-06,summer,0,4,Cerah,Tidak Libur,Rabu,Hari Kerja,0.390833,0.470833,0.263063,casual,413,April
+2011-04-07,summer,0,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.4375,0.602917,0.162312,casual,571,April
+2011-04-08,summer,0,4,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.335833,0.83625,0.226992,casual,172,April
+2011-04-09,summer,0,4,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.3425,0.8775,0.133083,casual,879,April
+2011-04-10,summer,0,4,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.426667,0.8575,0.146767,casual,1188,April
+2011-04-11,summer,0,4,Berkabut,Tidak Libur,Senin,Hari Kerja,0.595652,0.716956,0.324474,casual,855,April
+2011-04-12,summer,0,4,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.5025,0.739167,0.274879,casual,257,April
+2011-04-13,summer,0,4,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.4125,0.819167,0.250617,casual,209,April
+2011-04-14,summer,0,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.4675,0.540417,0.1107,casual,529,April
+2011-04-15,summer,0,4,Cerah,Libur,Jum'at,Bukan Hari Kerja,0.446667,0.67125,0.226375,casual,642,April
+2011-04-16,summer,0,4,Hujan Ringan,Tidak Libur,Sabtu,Bukan Hari Kerja,0.430833,0.888333,0.340808,casual,121,April
+2011-04-17,summer,0,4,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.456667,0.479583,0.303496,casual,1558,April
+2011-04-18,summer,0,4,Cerah,Tidak Libur,Senin,Hari Kerja,0.5125,0.5425,0.163567,casual,669,April
+2011-04-19,summer,0,4,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.505833,0.665833,0.157971,casual,409,April
+2011-04-20,summer,0,4,Cerah,Tidak Libur,Rabu,Hari Kerja,0.595,0.614167,0.241925,casual,613,April
+2011-04-21,summer,0,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.459167,0.407083,0.325258,casual,745,April
+2011-04-22,summer,0,4,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.336667,0.729583,0.219521,casual,177,April
+2011-04-23,summer,0,4,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.46,0.887917,0.230725,casual,1462,April
+2011-04-24,summer,0,4,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.581667,0.810833,0.192175,casual,1710,April
+2011-04-25,summer,0,4,Cerah,Tidak Libur,Senin,Hari Kerja,0.606667,0.776667,0.185333,casual,773,April
+2011-04-26,summer,0,4,Cerah,Tidak Libur,Selasa,Hari Kerja,0.631667,0.729167,0.3265,casual,678,April
+2011-04-27,summer,0,4,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.62,0.835417,0.3122,casual,547,April
+2011-04-28,summer,0,4,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.6175,0.700833,0.320908,casual,569,April
+2011-04-29,summer,0,4,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.51,0.457083,0.240063,casual,878,April
+2011-04-30,summer,0,4,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.4725,0.503333,0.235075,casual,1965,April
+2011-05-01,summer,0,5,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.451667,0.762083,0.106354,casual,1138,May
+2011-05-02,summer,0,5,Berkabut,Tidak Libur,Senin,Hari Kerja,0.549167,0.73,0.183454,casual,847,May
+2011-05-03,summer,0,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.616667,0.697083,0.342667,casual,603,May
+2011-05-04,summer,0,5,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.414167,0.737083,0.328996,casual,255,May
+2011-05-05,summer,0,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.459167,0.444167,0.295392,casual,614,May
+2011-05-06,summer,0,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.479167,0.59,0.228246,casual,894,May
+2011-05-07,summer,0,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.52,0.54125,0.16045,casual,1612,May
+2011-05-08,summer,0,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.528333,0.631667,0.0746375,casual,1401,May
+2011-05-09,summer,0,5,Cerah,Tidak Libur,Senin,Hari Kerja,0.5325,0.58875,0.176,casual,664,May
+2011-05-10,summer,0,5,Cerah,Tidak Libur,Selasa,Hari Kerja,0.5325,0.489167,0.115671,casual,694,May
+2011-05-11,summer,0,5,Cerah,Tidak Libur,Rabu,Hari Kerja,0.5425,0.632917,0.120642,casual,550,May
+2011-05-12,summer,0,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.535,0.7475,0.189667,casual,695,May
+2011-05-13,summer,0,5,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.5125,0.863333,0.179725,casual,692,May
+2011-05-14,summer,0,5,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.520833,0.9225,0.13495,casual,902,May
+2011-05-15,summer,0,5,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.5625,0.867083,0.152979,casual,1582,May
+2011-05-16,summer,0,5,Cerah,Tidak Libur,Senin,Hari Kerja,0.5775,0.787917,0.126871,casual,773,May
+2011-05-17,summer,0,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.561667,0.837917,0.277354,casual,678,May
+2011-05-18,summer,0,5,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.55,0.87,0.201492,casual,536,May
+2011-05-19,summer,0,5,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.530833,0.829583,0.108213,casual,735,May
+2011-05-20,summer,0,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.536667,0.719583,0.125013,casual,909,May
+2011-05-21,summer,0,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.6025,0.626667,0.12065,casual,2258,May
+2011-05-22,summer,0,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.604167,0.749583,0.148008,casual,1576,May
+2011-05-23,summer,0,5,Berkabut,Tidak Libur,Senin,Hari Kerja,0.631667,0.81,0.233842,casual,836,May
+2011-05-24,summer,0,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.66,0.740833,0.207092,casual,659,May
+2011-05-25,summer,0,5,Cerah,Tidak Libur,Rabu,Hari Kerja,0.660833,0.69625,0.154233,casual,740,May
+2011-05-26,summer,0,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.708333,0.6775,0.199642,casual,758,May
+2011-05-27,summer,0,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.681667,0.65375,0.240679,casual,871,May
+2011-05-28,summer,0,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.655833,0.729583,0.230092,casual,2001,May
+2011-05-29,summer,0,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.6675,0.81875,0.213938,casual,2355,May
+2011-05-30,summer,0,5,Cerah,Libur,Senin,Bukan Hari Kerja,0.733333,0.685,0.131225,casual,1549,May
+2011-05-31,summer,0,5,Cerah,Tidak Libur,Selasa,Hari Kerja,0.775,0.636667,0.111329,casual,673,May
+2011-06-01,summer,0,6,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.764167,0.677083,0.207092,casual,513,June
+2011-06-02,summer,0,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.715,0.305,0.292287,casual,736,June
+2011-06-03,summer,0,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.62,0.354167,0.253121,casual,898,June
+2011-06-04,summer,0,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.635,0.45625,0.123142,casual,1869,June
+2011-06-05,summer,0,6,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.648333,0.6525,0.138692,casual,1685,June
+2011-06-06,summer,0,6,Cerah,Tidak Libur,Senin,Hari Kerja,0.678333,0.6,0.121896,casual,673,June
+2011-06-07,summer,0,6,Cerah,Tidak Libur,Selasa,Hari Kerja,0.7075,0.597917,0.187808,casual,763,June
+2011-06-08,summer,0,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.775833,0.622083,0.136817,casual,676,June
+2011-06-09,summer,0,6,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.808333,0.568333,0.149883,casual,563,June
+2011-06-10,summer,0,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.755,0.605,0.140554,casual,815,June
+2011-06-11,summer,0,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.725,0.654583,0.15485,casual,1729,June
+2011-06-12,summer,0,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.6925,0.747917,0.163567,casual,1467,June
+2011-06-13,summer,0,6,Cerah,Tidak Libur,Senin,Hari Kerja,0.635,0.494583,0.30535,casual,863,June
+2011-06-14,summer,0,6,Cerah,Tidak Libur,Selasa,Hari Kerja,0.604167,0.507083,0.269283,casual,727,June
+2011-06-15,summer,0,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.626667,0.471667,0.167912,casual,769,June
+2011-06-16,summer,0,6,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.628333,0.688333,0.206471,casual,545,June
+2011-06-17,summer,0,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.649167,0.735833,0.143029,casual,863,June
+2011-06-18,summer,0,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.696667,0.670417,0.119408,casual,1807,June
+2011-06-19,summer,0,6,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.699167,0.666667,0.102,casual,1639,June
+2011-06-20,summer,0,6,Berkabut,Tidak Libur,Senin,Hari Kerja,0.635,0.74625,0.155475,casual,699,June
+2011-06-21,fall,0,6,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.680833,0.770417,0.171025,casual,774,June
+2011-06-22,fall,0,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.733333,0.7075,0.172262,casual,661,June
+2011-06-23,fall,0,6,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.728333,0.703333,0.238804,casual,746,June
+2011-06-24,fall,0,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.724167,0.573333,0.222025,casual,969,June
+2011-06-25,fall,0,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.695,0.483333,0.209571,casual,1782,June
+2011-06-26,fall,0,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.68,0.513333,0.0945333,casual,1920,June
+2011-06-27,fall,0,6,Berkabut,Tidak Libur,Senin,Hari Kerja,0.6825,0.658333,0.107588,casual,854,June
+2011-06-28,fall,0,6,Cerah,Tidak Libur,Selasa,Hari Kerja,0.744167,0.634167,0.144283,casual,732,June
+2011-06-29,fall,0,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.728333,0.497917,0.261821,casual,848,June
+2011-06-30,fall,0,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.696667,0.434167,0.185312,casual,1027,June
+2011-07-01,fall,0,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.7225,0.39625,0.102608,casual,1246,July
+2011-07-02,fall,0,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.738333,0.444583,0.115062,casual,2204,July
+2011-07-03,fall,0,7,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.716667,0.6825,0.228858,casual,2282,July
+2011-07-04,fall,0,7,Berkabut,Libur,Senin,Bukan Hari Kerja,0.726667,0.637917,0.0814792,casual,3065,July
+2011-07-05,fall,0,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.746667,0.590417,0.126258,casual,1031,July
+2011-07-06,fall,0,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.72,0.743333,0.149883,casual,784,July
+2011-07-07,fall,0,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.75,0.65125,0.1592,casual,754,July
+2011-07-08,fall,0,7,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.709167,0.757917,0.225129,casual,692,July
+2011-07-09,fall,0,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.733333,0.609167,0.167912,casual,1988,July
+2011-07-10,fall,0,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.7475,0.578333,0.183471,casual,1743,July
+2011-07-11,fall,0,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.7625,0.635833,0.282337,casual,723,July
+2011-07-12,fall,0,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.794167,0.559167,0.200254,casual,662,July
+2011-07-13,fall,0,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.746667,0.631667,0.146133,casual,748,July
+2011-07-14,fall,0,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.680833,0.47625,0.240667,casual,888,July
+2011-07-15,fall,0,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.663333,0.59125,0.182833,casual,1318,July
+2011-07-16,fall,0,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.686667,0.585,0.208342,casual,2418,July
+2011-07-17,fall,0,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.719167,0.604167,0.245033,casual,2006,July
+2011-07-18,fall,0,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.746667,0.65125,0.215804,casual,841,July
+2011-07-19,fall,0,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.776667,0.650417,0.1306,casual,752,July
+2011-07-20,fall,0,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.768333,0.707083,0.113817,casual,644,July
+2011-07-21,fall,0,7,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.815,0.69125,0.222021,casual,632,July
+2011-07-22,fall,0,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.848333,0.580417,0.1331,casual,562,July
+2011-07-23,fall,0,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.849167,0.5,0.131221,casual,987,July
+2011-07-24,fall,0,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.83,0.550833,0.169171,casual,1050,July
+2011-07-25,fall,0,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.743333,0.757083,0.0908083,casual,568,July
+2011-07-26,fall,0,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.771667,0.540833,0.200258,casual,750,July
+2011-07-27,fall,0,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.775,0.402917,0.183463,casual,755,July
+2011-07-28,fall,0,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.779167,0.583333,0.178479,casual,606,July
+2011-07-29,fall,0,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.838333,0.5425,0.174138,casual,670,July
+2011-07-30,fall,0,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.804167,0.465833,0.168537,casual,1559,July
+2011-07-31,fall,0,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.805833,0.480833,0.164813,casual,1524,July
+2011-08-01,fall,0,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.771667,0.550833,0.156717,casual,729,August
+2011-08-02,fall,0,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.783333,0.49125,0.20585,casual,801,August
+2011-08-03,fall,0,8,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.731667,0.6575,0.135583,casual,467,August
+2011-08-04,fall,0,8,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.71,0.7575,0.19715,casual,799,August
+2011-08-05,fall,0,8,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.710833,0.630833,0.184696,casual,1023,August
+2011-08-06,fall,0,8,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.716667,0.755,0.22825,casual,1521,August
+2011-08-07,fall,0,8,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.7425,0.752917,0.201487,casual,1298,August
+2011-08-08,fall,0,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.765,0.592083,0.192175,casual,846,August
+2011-08-09,fall,0,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.775,0.570417,0.151121,casual,907,August
+2011-08-10,fall,0,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.766667,0.424167,0.200258,casual,884,August
+2011-08-11,fall,0,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.7175,0.42375,0.164796,casual,812,August
+2011-08-12,fall,0,8,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.708333,0.415,0.125621,casual,1051,August
+2011-08-13,fall,0,8,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.685833,0.729583,0.211454,casual,1504,August
+2011-08-14,fall,0,8,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.676667,0.8175,0.222633,casual,1338,August
+2011-08-15,fall,0,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.665833,0.712083,0.208954,casual,775,August
+2011-08-16,fall,0,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.700833,0.578333,0.236329,casual,721,August
+2011-08-17,fall,0,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.723333,0.575417,0.143667,casual,668,August
+2011-08-18,fall,0,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.711667,0.654583,0.233208,casual,639,August
+2011-08-19,fall,0,8,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.685,0.722917,0.139308,casual,797,August
+2011-08-20,fall,0,8,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.6975,0.674167,0.104467,casual,1914,August
+2011-08-21,fall,0,8,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.710833,0.77,0.248754,casual,1249,August
+2011-08-22,fall,0,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.691667,0.47,0.27675,casual,833,August
+2011-08-23,fall,0,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.640833,0.455417,0.146763,casual,1281,August
+2011-08-24,fall,0,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.673333,0.605,0.253108,casual,949,August
+2011-08-25,fall,0,8,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.684167,0.771667,0.210833,casual,435,August
+2011-08-26,fall,0,8,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.7,0.76125,0.0839625,casual,768,August
+2011-08-27,fall,0,8,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.68,0.85,0.375617,casual,226,August
+2011-08-28,fall,0,8,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.707059,0.561765,0.304659,casual,1415,August
+2011-08-29,fall,0,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.636667,0.554583,0.159825,casual,729,August
+2011-08-30,fall,0,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.639167,0.548333,0.125008,casual,775,August
+2011-08-31,fall,0,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.656667,0.597917,0.0833333,casual,688,August
+2011-09-01,fall,0,9,Cerah,Tidak Libur,Kamis,Hari Kerja,0.655,0.639167,0.141796,casual,783,September
+2011-09-02,fall,0,9,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.643333,0.727083,0.139929,casual,875,September
+2011-09-03,fall,0,9,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.669167,0.716667,0.185325,casual,1935,September
+2011-09-04,fall,0,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.709167,0.742083,0.206467,casual,2521,September
+2011-09-05,fall,0,9,Berkabut,Libur,Senin,Bukan Hari Kerja,0.673333,0.790417,0.212696,casual,1236,September
+2011-09-06,fall,0,9,Hujan Ringan,Tidak Libur,Selasa,Hari Kerja,0.54,0.886957,0.343943,casual,204,September
+2011-09-07,fall,0,9,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.599167,0.917083,0.0970208,casual,118,September
+2011-09-08,fall,0,9,Hujan Ringan,Tidak Libur,Kamis,Hari Kerja,0.633913,0.939565,0.192748,casual,153,September
+2011-09-09,fall,0,9,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.65,0.897917,0.124379,casual,417,September
+2011-09-10,fall,0,9,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.66,0.75375,0.153608,casual,1750,September
+2011-09-11,fall,0,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.653333,0.71375,0.115054,casual,1633,September
+2011-09-12,fall,0,9,Cerah,Tidak Libur,Senin,Hari Kerja,0.644348,0.692174,0.088913,casual,690,September
+2011-09-13,fall,0,9,Cerah,Tidak Libur,Selasa,Hari Kerja,0.650833,0.7125,0.141804,casual,701,September
+2011-09-14,fall,0,9,Cerah,Tidak Libur,Rabu,Hari Kerja,0.673333,0.697083,0.1673,casual,647,September
+2011-09-15,fall,0,9,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.5775,0.709167,0.271146,casual,428,September
+2011-09-16,fall,0,9,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.469167,0.590417,0.164183,casual,742,September
+2011-09-17,fall,0,9,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.491667,0.718333,0.189675,casual,1434,September
+2011-09-18,fall,0,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.5075,0.695,0.178483,casual,1353,September
+2011-09-19,fall,0,9,Berkabut,Tidak Libur,Senin,Hari Kerja,0.549167,0.69,0.151742,casual,691,September
+2011-09-20,fall,0,9,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.561667,0.88125,0.134954,casual,438,September
+2011-09-21,fall,0,9,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.595,0.9,0.0964042,casual,539,September
+2011-09-22,fall,0,9,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.628333,0.902083,0.128125,casual,555,September
+2011-09-23,winter,0,9,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.609167,0.9725,0.0783667,casual,258,September
+2011-09-24,winter,0,9,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.606667,0.8625,0.0783833,casual,1776,September
+2011-09-25,winter,0,9,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.634167,0.845,0.0503792,casual,1544,September
+2011-09-26,winter,0,9,Berkabut,Tidak Libur,Senin,Hari Kerja,0.649167,0.848333,0.1107,casual,684,September
+2011-09-27,winter,0,9,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.636667,0.885417,0.118171,casual,477,September
+2011-09-28,winter,0,9,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.635,0.84875,0.148629,casual,480,September
+2011-09-29,winter,0,9,Cerah,Tidak Libur,Kamis,Hari Kerja,0.616667,0.699167,0.172883,casual,653,September
+2011-09-30,winter,0,9,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.564167,0.6475,0.206475,casual,830,September
+2011-10-01,winter,0,10,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.41,0.75375,0.292296,casual,480,October
+2011-10-02,winter,0,10,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.356667,0.791667,0.222013,casual,616,October
+2011-10-03,winter,0,10,Berkabut,Tidak Libur,Senin,Hari Kerja,0.384167,0.760833,0.0833458,casual,330,October
+2011-10-04,winter,0,10,Cerah,Tidak Libur,Selasa,Hari Kerja,0.484167,0.71,0.205854,casual,486,October
+2011-10-05,winter,0,10,Cerah,Tidak Libur,Rabu,Hari Kerja,0.538333,0.647917,0.17725,casual,559,October
+2011-10-06,winter,0,10,Cerah,Tidak Libur,Kamis,Hari Kerja,0.494167,0.620833,0.134954,casual,639,October
+2011-10-07,winter,0,10,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.510833,0.684167,0.0223917,casual,949,October
+2011-10-08,winter,0,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.521667,0.70125,0.0454042,casual,2235,October
+2011-10-09,winter,0,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.540833,0.7275,0.06345,casual,2397,October
+2011-10-10,winter,0,10,Cerah,Libur,Senin,Bukan Hari Kerja,0.570833,0.73375,0.0423042,casual,1514,October
+2011-10-11,winter,0,10,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.566667,0.80875,0.143042,casual,667,October
+2011-10-12,winter,0,10,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.543333,0.90625,0.24815,casual,217,October
+2011-10-13,winter,0,10,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.589167,0.896667,0.141787,casual,290,October
+2011-10-14,winter,0,10,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.550833,0.71625,0.223883,casual,529,October
+2011-10-15,winter,0,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.506667,0.483333,0.258083,casual,1899,October
+2011-10-16,winter,0,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.511667,0.486667,0.281717,casual,1748,October
+2011-10-17,winter,0,10,Cerah,Tidak Libur,Senin,Hari Kerja,0.534167,0.579583,0.175379,casual,713,October
+2011-10-18,winter,0,10,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.5325,0.701667,0.110087,casual,637,October
+2011-10-19,winter,0,10,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.541739,0.895217,0.243339,casual,254,October
+2011-10-20,winter,0,10,Cerah,Tidak Libur,Kamis,Hari Kerja,0.475833,0.63625,0.422275,casual,471,October
+2011-10-21,winter,0,10,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.4275,0.574167,0.221396,casual,676,October
+2011-10-22,winter,0,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.4225,0.629167,0.0926667,casual,1499,October
+2011-10-23,winter,0,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.421667,0.74125,0.0995125,casual,1619,October
+2011-10-24,winter,0,10,Cerah,Tidak Libur,Senin,Hari Kerja,0.463333,0.772083,0.118792,casual,699,October
+2011-10-25,winter,0,10,Cerah,Tidak Libur,Selasa,Hari Kerja,0.471667,0.622917,0.166658,casual,695,October
+2011-10-26,winter,0,10,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.484167,0.720417,0.148642,casual,404,October
+2011-10-27,winter,0,10,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.47,0.812917,0.197763,casual,240,October
+2011-10-28,winter,0,10,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.330833,0.585833,0.229479,casual,456,October
+2011-10-29,winter,0,10,Hujan Ringan,Tidak Libur,Sabtu,Bukan Hari Kerja,0.254167,0.8825,0.351371,casual,57,October
+2011-10-30,winter,0,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.319167,0.62375,0.176617,casual,885,October
+2011-10-31,winter,0,10,Cerah,Tidak Libur,Senin,Hari Kerja,0.34,0.703333,0.10635,casual,362,October
+2011-11-01,winter,0,11,Cerah,Tidak Libur,Selasa,Hari Kerja,0.400833,0.68375,0.135571,casual,410,November
+2011-11-02,winter,0,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.3775,0.71875,0.0820917,casual,370,November
+2011-11-03,winter,0,11,Cerah,Tidak Libur,Kamis,Hari Kerja,0.408333,0.702083,0.136817,casual,318,November
+2011-11-04,winter,0,11,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.403333,0.6225,0.271779,casual,470,November
+2011-11-05,winter,0,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.326667,0.519167,0.189062,casual,1156,November
+2011-11-06,winter,0,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.348333,0.734583,0.0920542,casual,952,November
+2011-11-07,winter,0,11,Cerah,Tidak Libur,Senin,Hari Kerja,0.395,0.75875,0.057225,casual,373,November
+2011-11-08,winter,0,11,Cerah,Tidak Libur,Selasa,Hari Kerja,0.408333,0.721667,0.0690375,casual,376,November
+2011-11-09,winter,0,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.4,0.758333,0.0621958,casual,305,November
+2011-11-10,winter,0,11,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.38,0.813333,0.189067,casual,190,November
+2011-11-11,winter,0,11,Cerah,Libur,Jum'at,Bukan Hari Kerja,0.324167,0.44625,0.314675,casual,440,November
+2011-11-12,winter,0,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.356667,0.552917,0.212062,casual,1275,November
+2011-11-13,winter,0,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.440833,0.458333,0.281721,casual,1004,November
+2011-11-14,winter,0,11,Cerah,Tidak Libur,Senin,Hari Kerja,0.53,0.587083,0.306596,casual,595,November
+2011-11-15,winter,0,11,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.53,0.68875,0.199633,casual,449,November
+2011-11-16,winter,0,11,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.456667,0.93,0.136829,casual,145,November
+2011-11-17,winter,0,11,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.341667,0.575833,0.305362,casual,139,November
+2011-11-18,winter,0,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.274167,0.41,0.168533,casual,245,November
+2011-11-19,winter,0,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.329167,0.502083,0.224496,casual,943,November
+2011-11-20,winter,0,11,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.463333,0.684583,0.18595,casual,787,November
+2011-11-21,winter,0,11,Hujan Ringan,Tidak Libur,Senin,Hari Kerja,0.4475,0.91,0.138054,casual,220,November
+2011-11-22,winter,0,11,Hujan Ringan,Tidak Libur,Selasa,Hari Kerja,0.416667,0.9625,0.118792,casual,69,November
+2011-11-23,winter,0,11,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.440833,0.757917,0.335825,casual,112,November
+2011-11-24,winter,0,11,Cerah,Libur,Kamis,Bukan Hari Kerja,0.373333,0.549167,0.167304,casual,560,November
+2011-11-25,winter,0,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.375,0.64375,0.0988958,casual,1095,November
+2011-11-26,winter,0,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.375833,0.681667,0.0684208,casual,1249,November
+2011-11-27,winter,0,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.459167,0.698333,0.208954,casual,810,November
+2011-11-28,winter,0,11,Cerah,Tidak Libur,Senin,Hari Kerja,0.503478,0.743043,0.142122,casual,253,November
+2011-11-29,winter,0,11,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.458333,0.830833,0.258092,casual,96,November
+2011-11-30,winter,0,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.325,0.613333,0.271158,casual,188,November
+2011-12-01,winter,0,12,Cerah,Tidak Libur,Kamis,Hari Kerja,0.3125,0.524583,0.220158,casual,182,December
+2011-12-02,winter,0,12,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.314167,0.625833,0.100754,casual,268,December
+2011-12-03,winter,0,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.299167,0.612917,0.0957833,casual,706,December
+2011-12-04,winter,0,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.330833,0.775833,0.0839583,casual,634,December
+2011-12-05,winter,0,12,Berkabut,Tidak Libur,Senin,Hari Kerja,0.385833,0.827083,0.0622083,casual,233,December
+2011-12-06,winter,0,12,Hujan Ringan,Tidak Libur,Selasa,Hari Kerja,0.4625,0.949583,0.232583,casual,126,December
+2011-12-07,winter,0,12,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.41,0.970417,0.266175,casual,50,December
+2011-12-08,winter,0,12,Cerah,Tidak Libur,Kamis,Hari Kerja,0.265833,0.58,0.240058,casual,150,December
+2011-12-09,winter,0,12,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.290833,0.695833,0.0827167,casual,261,December
+2011-12-10,winter,0,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.275,0.5075,0.233221,casual,502,December
+2011-12-11,winter,0,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.220833,0.49,0.0665417,casual,377,December
+2011-12-12,winter,0,12,Cerah,Tidak Libur,Senin,Hari Kerja,0.238333,0.670833,0.06345,casual,143,December
+2011-12-13,winter,0,12,Cerah,Tidak Libur,Selasa,Hari Kerja,0.2825,0.59,0.14055,casual,155,December
+2011-12-14,winter,0,12,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.3175,0.66375,0.0609583,casual,178,December
+2011-12-15,winter,0,12,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.4225,0.634167,0.268042,casual,181,December
+2011-12-16,winter,0,12,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.375,0.500417,0.260575,casual,178,December
+2011-12-17,winter,0,12,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.258333,0.560833,0.243167,casual,275,December
+2011-12-18,winter,0,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.238333,0.58625,0.169779,casual,220,December
+2011-12-19,winter,0,12,Cerah,Tidak Libur,Senin,Hari Kerja,0.276667,0.6375,0.172896,casual,260,December
+2011-12-20,winter,0,12,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.385833,0.595417,0.0615708,casual,216,December
+2011-12-21,springer,0,12,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.428333,0.858333,0.2214,casual,107,December
+2011-12-22,springer,0,12,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.423333,0.7575,0.047275,casual,227,December
+2011-12-23,springer,0,12,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.373333,0.68625,0.274246,casual,163,December
+2011-12-24,springer,0,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.3025,0.5425,0.190304,casual,155,December
+2011-12-25,springer,0,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.274783,0.681304,0.155091,casual,303,December
+2011-12-26,springer,0,12,Cerah,Libur,Senin,Bukan Hari Kerja,0.321739,0.506957,0.239465,casual,430,December
+2011-12-27,springer,0,12,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.325,0.7625,0.18845,casual,103,December
+2011-12-28,springer,0,12,Cerah,Tidak Libur,Rabu,Hari Kerja,0.29913,0.503913,0.293961,casual,255,December
+2011-12-29,springer,0,12,Cerah,Tidak Libur,Kamis,Hari Kerja,0.248333,0.574167,0.119412,casual,254,December
+2011-12-30,springer,0,12,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.311667,0.636667,0.134337,casual,491,December
+2011-12-31,springer,0,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.41,0.615833,0.220154,casual,665,December
+2012-01-01,springer,1,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.37,0.6925,0.192167,casual,686,January
+2012-01-02,springer,1,1,Cerah,Libur,Senin,Bukan Hari Kerja,0.273043,0.381304,0.329665,casual,244,January
+2012-01-03,springer,1,1,Cerah,Tidak Libur,Selasa,Hari Kerja,0.15,0.44125,0.365671,casual,89,January
+2012-01-04,springer,1,1,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.1075,0.414583,0.1847,casual,95,January
+2012-01-05,springer,1,1,Cerah,Tidak Libur,Kamis,Hari Kerja,0.265833,0.524167,0.129987,casual,140,January
+2012-01-06,springer,1,1,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.334167,0.542083,0.167908,casual,307,January
+2012-01-07,springer,1,1,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.393333,0.531667,0.174758,casual,1070,January
+2012-01-08,springer,1,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.3375,0.465,0.191542,casual,599,January
+2012-01-09,springer,1,1,Berkabut,Tidak Libur,Senin,Hari Kerja,0.224167,0.701667,0.0989,casual,106,January
+2012-01-10,springer,1,1,Cerah,Tidak Libur,Selasa,Hari Kerja,0.308696,0.646522,0.187552,casual,173,January
+2012-01-11,springer,1,1,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.274167,0.8475,0.131221,casual,92,January
+2012-01-12,springer,1,1,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.3825,0.802917,0.180967,casual,269,January
+2012-01-13,springer,1,1,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.274167,0.5075,0.378108,casual,174,January
+2012-01-14,springer,1,1,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.18,0.4575,0.187183,casual,333,January
+2012-01-15,springer,1,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.166667,0.419167,0.251258,casual,284,January
+2012-01-16,springer,1,1,Cerah,Libur,Senin,Bukan Hari Kerja,0.19,0.5225,0.231358,casual,217,January
+2012-01-17,springer,1,1,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.373043,0.716087,0.34913,casual,127,January
+2012-01-18,springer,1,1,Cerah,Tidak Libur,Rabu,Hari Kerja,0.303333,0.443333,0.415429,casual,109,January
+2012-01-19,springer,1,1,Cerah,Tidak Libur,Kamis,Hari Kerja,0.19,0.4975,0.220158,casual,130,January
+2012-01-20,springer,1,1,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.2175,0.45,0.20275,casual,115,January
+2012-01-21,springer,1,1,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.173333,0.83125,0.222642,casual,67,January
+2012-01-22,springer,1,1,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.1625,0.79625,0.199638,casual,196,January
+2012-01-23,springer,1,1,Berkabut,Tidak Libur,Senin,Hari Kerja,0.218333,0.91125,0.110708,casual,145,January
+2012-01-24,springer,1,1,Cerah,Tidak Libur,Selasa,Hari Kerja,0.3425,0.835833,0.123767,casual,439,January
+2012-01-25,springer,1,1,Cerah,Tidak Libur,Rabu,Hari Kerja,0.294167,0.64375,0.161071,casual,467,January
+2012-01-26,springer,1,1,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.341667,0.769583,0.0733958,casual,244,January
+2012-01-27,springer,1,1,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.425,0.74125,0.342667,casual,269,January
+2012-01-28,springer,1,1,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.315833,0.543333,0.210829,casual,775,January
+2012-01-29,springer,1,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.2825,0.31125,0.24005,casual,558,January
+2012-01-30,springer,1,1,Cerah,Tidak Libur,Senin,Hari Kerja,0.269167,0.400833,0.215792,casual,126,January
+2012-01-31,springer,1,1,Cerah,Tidak Libur,Selasa,Hari Kerja,0.39,0.416667,0.261817,casual,324,January
+2012-02-01,springer,1,2,Cerah,Tidak Libur,Rabu,Hari Kerja,0.469167,0.507917,0.189067,casual,304,February
+2012-02-02,springer,1,2,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.399167,0.672917,0.187187,casual,190,February
+2012-02-03,springer,1,2,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.313333,0.526667,0.178496,casual,310,February
+2012-02-04,springer,1,2,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.264167,0.779583,0.121896,casual,384,February
+2012-02-05,springer,1,2,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.265833,0.687917,0.175996,casual,318,February
+2012-02-06,springer,1,2,Cerah,Tidak Libur,Senin,Hari Kerja,0.282609,0.622174,0.1538,casual,206,February
+2012-02-07,springer,1,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.354167,0.49625,0.147379,casual,199,February
+2012-02-08,springer,1,2,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.256667,0.722917,0.133721,casual,109,February
+2012-02-09,springer,1,2,Cerah,Tidak Libur,Kamis,Hari Kerja,0.265,0.562083,0.194037,casual,163,February
+2012-02-10,springer,1,2,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.280833,0.54,0.116929,casual,227,February
+2012-02-11,springer,1,2,Hujan Ringan,Tidak Libur,Sabtu,Bukan Hari Kerja,0.224167,0.73125,0.289796,casual,192,February
+2012-02-12,springer,1,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.1275,0.464583,0.409212,casual,73,February
+2012-02-13,springer,1,2,Cerah,Tidak Libur,Senin,Hari Kerja,0.2225,0.41125,0.167283,casual,94,February
+2012-02-14,springer,1,2,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.319167,0.50875,0.141179,casual,135,February
+2012-02-15,springer,1,2,Cerah,Tidak Libur,Rabu,Hari Kerja,0.348333,0.53125,0.1816,casual,141,February
+2012-02-16,springer,1,2,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.316667,0.752917,0.091425,casual,74,February
+2012-02-17,springer,1,2,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.343333,0.634583,0.205846,casual,349,February
+2012-02-18,springer,1,2,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.346667,0.534583,0.190929,casual,1435,February
+2012-02-19,springer,1,2,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.28,0.515833,0.253112,casual,618,February
+2012-02-20,springer,1,2,Cerah,Libur,Senin,Bukan Hari Kerja,0.28,0.507826,0.229083,casual,502,February
+2012-02-21,springer,1,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.287826,0.594348,0.205717,casual,163,February
+2012-02-22,springer,1,2,Cerah,Tidak Libur,Rabu,Hari Kerja,0.395833,0.567917,0.234471,casual,394,February
+2012-02-23,springer,1,2,Cerah,Tidak Libur,Kamis,Hari Kerja,0.454167,0.554583,0.190913,casual,516,February
+2012-02-24,springer,1,2,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.4075,0.7375,0.237567,casual,246,February
+2012-02-25,springer,1,2,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.290833,0.395833,0.421642,casual,317,February
+2012-02-26,springer,1,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.279167,0.41,0.205229,casual,515,February
+2012-02-27,springer,1,2,Cerah,Tidak Libur,Senin,Hari Kerja,0.366667,0.490833,0.268033,casual,253,February
+2012-02-28,springer,1,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.359167,0.395833,0.193417,casual,229,February
+2012-02-29,springer,1,2,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.344348,0.804783,0.179117,casual,65,February
+2012-03-01,springer,1,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.485833,0.615417,0.226987,casual,325,March
+2012-03-02,springer,1,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.353333,0.657083,0.144904,casual,246,March
+2012-03-03,springer,1,3,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.414167,0.62125,0.161079,casual,956,March
+2012-03-04,springer,1,3,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.325833,0.403333,0.334571,casual,710,March
+2012-03-05,springer,1,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.243333,0.50625,0.228858,casual,203,March
+2012-03-06,springer,1,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.258333,0.456667,0.200875,casual,221,March
+2012-03-07,springer,1,3,Cerah,Tidak Libur,Rabu,Hari Kerja,0.404167,0.513333,0.345779,casual,432,March
+2012-03-08,springer,1,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.5275,0.5675,0.441563,casual,486,March
+2012-03-09,springer,1,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.410833,0.407083,0.4148,casual,447,March
+2012-03-10,springer,1,3,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.2875,0.350417,0.22575,casual,968,March
+2012-03-11,springer,1,3,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.361739,0.476957,0.222587,casual,1658,March
+2012-03-12,springer,1,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.466667,0.489167,0.207713,casual,838,March
+2012-03-13,springer,1,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.565,0.6175,0.23695,casual,762,March
+2012-03-14,springer,1,3,Cerah,Tidak Libur,Rabu,Hari Kerja,0.5725,0.507083,0.115062,casual,997,March
+2012-03-15,springer,1,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.5575,0.579583,0.149883,casual,1005,March
+2012-03-16,springer,1,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.435833,0.842083,0.113192,casual,548,March
+2012-03-17,springer,1,3,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.514167,0.755833,0.110704,casual,3155,March
+2012-03-18,springer,1,3,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.4725,0.81,0.126883,casual,2207,March
+2012-03-19,springer,1,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.545,0.72875,0.162317,casual,982,March
+2012-03-20,springer,1,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.560833,0.807917,0.121271,casual,1051,March
+2012-03-21,summer,1,3,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.531667,0.82125,0.0895583,casual,1122,March
+2012-03-22,summer,1,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.554167,0.83125,0.117562,casual,1334,March
+2012-03-23,summer,1,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.601667,0.694167,0.1163,casual,2469,March
+2012-03-24,summer,1,3,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.5025,0.885417,0.192783,casual,1033,March
+2012-03-25,summer,1,3,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.4375,0.880833,0.220775,casual,1532,March
+2012-03-26,summer,1,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.445833,0.477917,0.386821,casual,795,March
+2012-03-27,summer,1,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.323333,0.29,0.187192,casual,531,March
+2012-03-28,summer,1,3,Cerah,Tidak Libur,Rabu,Hari Kerja,0.484167,0.48125,0.291671,casual,674,March
+2012-03-29,summer,1,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.494167,0.439167,0.31965,casual,834,March
+2012-03-30,summer,1,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.37,0.580833,0.138067,casual,796,March
+2012-03-31,summer,1,3,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.424167,0.738333,0.250617,casual,2301,March
+2012-04-01,summer,1,4,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.425833,0.67625,0.172267,casual,2347,April
+2012-04-02,summer,1,4,Cerah,Tidak Libur,Senin,Hari Kerja,0.433913,0.504348,0.312139,casual,1208,April
+2012-04-03,summer,1,4,Cerah,Tidak Libur,Selasa,Hari Kerja,0.466667,0.396667,0.100133,casual,1348,April
+2012-04-04,summer,1,4,Cerah,Tidak Libur,Rabu,Hari Kerja,0.541667,0.469583,0.180975,casual,1058,April
+2012-04-05,summer,1,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.435,0.374167,0.219529,casual,1192,April
+2012-04-06,summer,1,4,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.403333,0.377083,0.300388,casual,1807,April
+2012-04-07,summer,1,4,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.4375,0.254167,0.274871,casual,3252,April
+2012-04-08,summer,1,4,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.5,0.275833,0.232596,casual,2230,April
+2012-04-09,summer,1,4,Cerah,Tidak Libur,Senin,Hari Kerja,0.489167,0.3175,0.358196,casual,905,April
+2012-04-10,summer,1,4,Cerah,Tidak Libur,Selasa,Hari Kerja,0.446667,0.435,0.249375,casual,819,April
+2012-04-11,summer,1,4,Cerah,Tidak Libur,Rabu,Hari Kerja,0.348696,0.469565,0.295274,casual,482,April
+2012-04-12,summer,1,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.3975,0.46625,0.290429,casual,663,April
+2012-04-13,summer,1,4,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.4425,0.408333,0.155471,casual,1252,April
+2012-04-14,summer,1,4,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.495,0.502917,0.190917,casual,2795,April
+2012-04-15,summer,1,4,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.606667,0.507917,0.225129,casual,2846,April
+2012-04-16,summer,1,4,Cerah,Libur,Senin,Bukan Hari Kerja,0.664167,0.561667,0.284829,casual,1198,April
+2012-04-17,summer,1,4,Cerah,Tidak Libur,Selasa,Hari Kerja,0.608333,0.390417,0.273629,casual,989,April
+2012-04-18,summer,1,4,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.463333,0.569167,0.167912,casual,347,April
+2012-04-19,summer,1,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.498333,0.6125,0.0659292,casual,846,April
+2012-04-20,summer,1,4,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.526667,0.694583,0.149871,casual,1340,April
+2012-04-21,summer,1,4,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.57,0.682917,0.283587,casual,2541,April
+2012-04-22,summer,1,4,Hujan Ringan,Tidak Libur,Minggu,Bukan Hari Kerja,0.396667,0.835417,0.344546,casual,120,April
+2012-04-23,summer,1,4,Berkabut,Tidak Libur,Senin,Hari Kerja,0.321667,0.766667,0.303496,casual,195,April
+2012-04-24,summer,1,4,Cerah,Tidak Libur,Selasa,Hari Kerja,0.413333,0.454167,0.249383,casual,518,April
+2012-04-25,summer,1,4,Cerah,Tidak Libur,Rabu,Hari Kerja,0.476667,0.427917,0.118792,casual,655,April
+2012-04-26,summer,1,4,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.498333,0.756667,0.176625,casual,475,April
+2012-04-27,summer,1,4,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.4575,0.400833,0.347633,casual,1014,April
+2012-04-28,summer,1,4,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.376667,0.489583,0.129975,casual,1120,April
+2012-04-29,summer,1,4,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.458333,0.587083,0.116908,casual,2229,April
+2012-04-30,summer,1,4,Berkabut,Tidak Libur,Senin,Hari Kerja,0.464167,0.57,0.171638,casual,665,April
+2012-05-01,summer,1,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.613333,0.659583,0.156096,casual,653,May
+2012-05-02,summer,1,5,Cerah,Tidak Libur,Rabu,Hari Kerja,0.564167,0.797083,0.138058,casual,667,May
+2012-05-03,summer,1,5,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.56,0.768333,0.133696,casual,764,May
+2012-05-04,summer,1,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.6275,0.735417,0.162938,casual,1069,May
+2012-05-05,summer,1,5,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.621667,0.756667,0.152992,casual,2496,May
+2012-05-06,summer,1,5,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.5625,0.74,0.149879,casual,2135,May
+2012-05-07,summer,1,5,Berkabut,Tidak Libur,Senin,Hari Kerja,0.5375,0.664167,0.230721,casual,1008,May
+2012-05-08,summer,1,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.581667,0.685833,0.296029,casual,738,May
+2012-05-09,summer,1,5,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.575,0.744167,0.216412,casual,620,May
+2012-05-10,summer,1,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.505833,0.552083,0.314063,casual,1026,May
+2012-05-11,summer,1,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.533333,0.360417,0.236937,casual,1319,May
+2012-05-12,summer,1,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.564167,0.480417,0.123133,casual,2622,May
+2012-05-13,summer,1,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.6125,0.57625,0.225117,casual,2172,May
+2012-05-14,summer,1,5,Berkabut,Tidak Libur,Senin,Hari Kerja,0.573333,0.789583,0.212692,casual,342,May
+2012-05-15,summer,1,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.611667,0.794583,0.147392,casual,625,May
+2012-05-16,summer,1,5,Cerah,Tidak Libur,Rabu,Hari Kerja,0.636667,0.697917,0.122512,casual,991,May
+2012-05-17,summer,1,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.593333,0.52,0.229475,casual,1242,May
+2012-05-18,summer,1,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.564167,0.523333,0.136817,casual,1521,May
+2012-05-19,summer,1,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.6,0.45625,0.083975,casual,3410,May
+2012-05-20,summer,1,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.620833,0.530417,0.254367,casual,2704,May
+2012-05-21,summer,1,5,Berkabut,Tidak Libur,Senin,Hari Kerja,0.598333,0.81125,0.233204,casual,630,May
+2012-05-22,summer,1,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.615,0.765833,0.118167,casual,819,May
+2012-05-23,summer,1,5,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.621667,0.774583,0.102,casual,766,May
+2012-05-24,summer,1,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.655,0.716667,0.172896,casual,1059,May
+2012-05-25,summer,1,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.68,0.747083,0.14055,casual,1417,May
+2012-05-26,summer,1,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.6925,0.7325,0.198992,casual,2855,May
+2012-05-27,summer,1,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.69,0.697083,0.215171,casual,3283,May
+2012-05-28,summer,1,5,Cerah,Libur,Senin,Bukan Hari Kerja,0.7125,0.67625,0.196521,casual,2557,May
+2012-05-29,summer,1,5,Cerah,Tidak Libur,Selasa,Hari Kerja,0.7225,0.684583,0.2954,casual,880,May
+2012-05-30,summer,1,5,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.656667,0.67,0.134329,casual,745,May
+2012-05-31,summer,1,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.68,0.492917,0.195279,casual,1100,May
+2012-06-01,summer,1,6,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.654167,0.755417,0.237563,casual,533,June
+2012-06-02,summer,1,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.583333,0.549167,0.186562,casual,2795,June
+2012-06-03,summer,1,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.6025,0.493333,0.184087,casual,2494,June
+2012-06-04,summer,1,6,Cerah,Tidak Libur,Senin,Hari Kerja,0.5975,0.487083,0.284833,casual,1071,June
+2012-06-05,summer,1,6,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.540833,0.613333,0.209575,casual,968,June
+2012-06-06,summer,1,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.554167,0.61125,0.077125,casual,1027,June
+2012-06-07,summer,1,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.6025,0.567083,0.15735,casual,1038,June
+2012-06-08,summer,1,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.649167,0.467917,0.175383,casual,1488,June
+2012-06-09,summer,1,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.710833,0.437083,0.144287,casual,2708,June
+2012-06-10,summer,1,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.726667,0.538333,0.133721,casual,2224,June
+2012-06-11,summer,1,6,Berkabut,Tidak Libur,Senin,Hari Kerja,0.720833,0.587917,0.207713,casual,1017,June
+2012-06-12,summer,1,6,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.653333,0.833333,0.214546,casual,477,June
+2012-06-13,summer,1,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.655833,0.582083,0.343279,casual,1173,June
+2012-06-14,summer,1,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.648333,0.569583,0.253733,casual,1180,June
+2012-06-15,summer,1,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.639167,0.589583,0.176617,casual,1563,June
+2012-06-16,summer,1,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.631667,0.504167,0.166667,casual,2963,June
+2012-06-17,summer,1,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.5925,0.59875,0.144904,casual,2634,June
+2012-06-18,summer,1,6,Berkabut,Tidak Libur,Senin,Hari Kerja,0.568333,0.777917,0.174746,casual,653,June
+2012-06-19,summer,1,6,Cerah,Tidak Libur,Selasa,Hari Kerja,0.688333,0.69,0.148017,casual,968,June
+2012-06-20,summer,1,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.7825,0.592083,0.113812,casual,872,June
+2012-06-21,fall,1,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.805833,0.567917,0.118787,casual,778,June
+2012-06-22,fall,1,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.7775,0.57375,0.182842,casual,964,June
+2012-06-23,fall,1,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.731667,0.534583,0.179721,casual,2657,June
+2012-06-24,fall,1,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.743333,0.479167,0.145525,casual,2551,June
+2012-06-25,fall,1,6,Cerah,Tidak Libur,Senin,Hari Kerja,0.715833,0.504167,0.300383,casual,1139,June
+2012-06-26,fall,1,6,Cerah,Tidak Libur,Selasa,Hari Kerja,0.630833,0.373333,0.347642,casual,1077,June
+2012-06-27,fall,1,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.6975,0.36,0.271775,casual,1077,June
+2012-06-28,fall,1,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.749167,0.4225,0.17165,casual,921,June
+2012-06-29,fall,1,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.834167,0.48875,0.165417,casual,829,June
+2012-06-30,fall,1,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.765,0.60125,0.161071,casual,1455,June
+2012-07-01,fall,1,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.815833,0.51875,0.168529,casual,1421,July
+2012-07-02,fall,1,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.781667,0.447083,0.195267,casual,904,July
+2012-07-03,fall,1,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.780833,0.492083,0.126237,casual,1052,July
+2012-07-04,fall,1,7,Cerah,Libur,Rabu,Bukan Hari Kerja,0.789167,0.53875,0.13495,casual,2562,July
+2012-07-05,fall,1,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.8275,0.457917,0.194029,casual,1405,July
+2012-07-06,fall,1,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.828333,0.450833,0.146142,casual,1366,July
+2012-07-07,fall,1,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.861667,0.492083,0.163554,casual,1448,July
+2012-07-08,fall,1,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.8225,0.57375,0.125629,casual,1203,July
+2012-07-09,fall,1,7,Berkabut,Tidak Libur,Senin,Hari Kerja,0.710833,0.683333,0.180975,casual,998,July
+2012-07-10,fall,1,7,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.720833,0.6675,0.151737,casual,954,July
+2012-07-11,fall,1,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.716667,0.633333,0.151733,casual,975,July
+2012-07-12,fall,1,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.715833,0.529583,0.146775,casual,1032,July
+2012-07-13,fall,1,7,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.731667,0.485833,0.08085,casual,1511,July
+2012-07-14,fall,1,7,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.703333,0.699167,0.143679,casual,2355,July
+2012-07-15,fall,1,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.745833,0.717917,0.166667,casual,1920,July
+2012-07-16,fall,1,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.763333,0.645,0.164187,casual,1088,July
+2012-07-17,fall,1,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.818333,0.505833,0.114429,casual,921,July
+2012-07-18,fall,1,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.793333,0.577083,0.137442,casual,799,July
+2012-07-19,fall,1,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.77,0.600417,0.165429,casual,888,July
+2012-07-20,fall,1,7,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.665833,0.844167,0.208967,casual,747,July
+2012-07-21,fall,1,7,Hujan Ringan,Tidak Libur,Sabtu,Bukan Hari Kerja,0.595833,0.865417,0.2133,casual,1264,July
+2012-07-22,fall,1,7,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.6675,0.7625,0.0939208,casual,2544,July
+2012-07-23,fall,1,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.741667,0.694167,0.138683,casual,1135,July
+2012-07-24,fall,1,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.750833,0.655,0.211454,casual,1140,July
+2012-07-25,fall,1,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.724167,0.45,0.1648,casual,1383,July
+2012-07-26,fall,1,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.776667,0.596667,0.284813,casual,1036,July
+2012-07-27,fall,1,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.781667,0.594583,0.152992,casual,1259,July
+2012-07-28,fall,1,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.755833,0.613333,0.15735,casual,2234,July
+2012-07-29,fall,1,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.721667,0.62375,0.170396,casual,2153,July
+2012-07-30,fall,1,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.730833,0.66875,0.153617,casual,1040,July
+2012-07-31,fall,1,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.713333,0.704167,0.165425,casual,968,July
+2012-08-01,fall,1,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.7175,0.6775,0.141179,casual,1074,August
+2012-08-02,fall,1,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.7525,0.659583,0.129354,casual,983,August
+2012-08-03,fall,1,8,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.765833,0.6425,0.215792,casual,1328,August
+2012-08-04,fall,1,8,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.793333,0.613333,0.257458,casual,2345,August
+2012-08-05,fall,1,8,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.769167,0.6525,0.290421,casual,1707,August
+2012-08-06,fall,1,8,Berkabut,Tidak Libur,Senin,Hari Kerja,0.7525,0.654167,0.129354,casual,1233,August
+2012-08-07,fall,1,8,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.735833,0.70375,0.116908,casual,1278,August
+2012-08-08,fall,1,8,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.75,0.672917,0.1107,casual,1263,August
+2012-08-09,fall,1,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.755833,0.620417,0.1561,casual,1196,August
+2012-08-10,fall,1,8,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.715833,0.715833,0.238813,casual,1065,August
+2012-08-11,fall,1,8,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.6925,0.732917,0.206479,casual,2247,August
+2012-08-12,fall,1,8,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.700833,0.530417,0.122512,casual,2182,August
+2012-08-13,fall,1,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.720833,0.545417,0.136212,casual,1207,August
+2012-08-14,fall,1,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.726667,0.686667,0.169158,casual,1128,August
+2012-08-15,fall,1,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.706667,0.619583,0.169771,casual,1198,August
+2012-08-16,fall,1,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.719167,0.519167,0.141796,casual,1338,August
+2012-08-17,fall,1,8,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.723333,0.570833,0.231354,casual,1483,August
+2012-08-18,fall,1,8,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.678333,0.603333,0.177867,casual,2827,August
+2012-08-19,fall,1,8,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.635833,0.711667,0.08645,casual,1208,August
+2012-08-20,fall,1,8,Berkabut,Tidak Libur,Senin,Hari Kerja,0.635833,0.734167,0.129979,casual,1026,August
+2012-08-21,fall,1,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.649167,0.67375,0.0727708,casual,1081,August
+2012-08-22,fall,1,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.6675,0.677083,0.0702833,casual,1094,August
+2012-08-23,fall,1,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.695833,0.635833,0.0845958,casual,1363,August
+2012-08-24,fall,1,8,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.7025,0.615,0.0721458,casual,1325,August
+2012-08-25,fall,1,8,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.661667,0.712917,0.244408,casual,1829,August
+2012-08-26,fall,1,8,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.653333,0.845833,0.228858,casual,1483,August
+2012-08-27,fall,1,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.703333,0.730417,0.128733,casual,989,August
+2012-08-28,fall,1,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.728333,0.62,0.190925,casual,935,August
+2012-08-29,fall,1,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.685,0.552083,0.112562,casual,1177,August
+2012-08-30,fall,1,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.706667,0.590417,0.0771167,casual,1172,August
+2012-08-31,fall,1,8,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.764167,0.5875,0.168533,casual,1433,August
+2012-09-01,fall,1,9,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.753333,0.638333,0.113187,casual,2352,September
+2012-09-02,fall,1,9,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.696667,0.815,0.0640708,casual,2613,September
+2012-09-03,fall,1,9,Cerah,Libur,Senin,Bukan Hari Kerja,0.7075,0.790833,0.151121,casual,1965,September
+2012-09-04,fall,1,9,Cerah,Tidak Libur,Selasa,Hari Kerja,0.725833,0.755,0.236321,casual,867,September
+2012-09-05,fall,1,9,Cerah,Tidak Libur,Rabu,Hari Kerja,0.736667,0.74125,0.187808,casual,832,September
+2012-09-06,fall,1,9,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.696667,0.810417,0.142421,casual,611,September
+2012-09-07,fall,1,9,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.703333,0.73625,0.171646,casual,1045,September
+2012-09-08,fall,1,9,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.659167,0.799167,0.281104,casual,1557,September
+2012-09-09,fall,1,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.61,0.5475,0.224496,casual,2570,September
+2012-09-10,fall,1,9,Cerah,Tidak Libur,Senin,Hari Kerja,0.583333,0.50375,0.258713,casual,1118,September
+2012-09-11,fall,1,9,Cerah,Tidak Libur,Selasa,Hari Kerja,0.5775,0.52,0.0920542,casual,1070,September
+2012-09-12,fall,1,9,Cerah,Tidak Libur,Rabu,Hari Kerja,0.599167,0.577083,0.131846,casual,1050,September
+2012-09-13,fall,1,9,Cerah,Tidak Libur,Kamis,Hari Kerja,0.6125,0.637083,0.0827208,casual,1054,September
+2012-09-14,fall,1,9,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.633333,0.6725,0.103863,casual,1379,September
+2012-09-15,fall,1,9,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.608333,0.501667,0.247521,casual,3160,September
+2012-09-16,fall,1,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.58,0.57,0.0901833,casual,2166,September
+2012-09-17,fall,1,9,Berkabut,Tidak Libur,Senin,Hari Kerja,0.580833,0.734583,0.151742,casual,1022,September
+2012-09-18,fall,1,9,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.623333,0.8725,0.357587,casual,371,September
+2012-09-19,fall,1,9,Cerah,Tidak Libur,Rabu,Hari Kerja,0.5525,0.536667,0.215175,casual,788,September
+2012-09-20,fall,1,9,Cerah,Tidak Libur,Kamis,Hari Kerja,0.546667,0.618333,0.118167,casual,939,September
+2012-09-21,fall,1,9,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.599167,0.66875,0.154229,casual,1250,September
+2012-09-22,fall,1,9,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.65,0.646667,0.283583,casual,2512,September
+2012-09-23,winter,1,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.529167,0.467083,0.223258,casual,2454,September
+2012-09-24,winter,1,9,Cerah,Tidak Libur,Senin,Hari Kerja,0.514167,0.492917,0.142404,casual,1001,September
+2012-09-25,winter,1,9,Cerah,Tidak Libur,Selasa,Hari Kerja,0.55,0.57,0.236321,casual,845,September
+2012-09-26,winter,1,9,Cerah,Tidak Libur,Rabu,Hari Kerja,0.635,0.630833,0.2444,casual,787,September
+2012-09-27,winter,1,9,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.65,0.690833,0.134342,casual,751,September
+2012-09-28,winter,1,9,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.619167,0.69,0.164179,casual,1045,September
+2012-09-29,winter,1,9,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.5425,0.542917,0.227604,casual,2589,September
+2012-09-30,winter,1,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.526667,0.583333,0.134958,casual,2015,September
+2012-10-01,winter,1,10,Berkabut,Tidak Libur,Senin,Hari Kerja,0.520833,0.649167,0.0908042,casual,763,October
+2012-10-02,winter,1,10,Hujan Ringan,Tidak Libur,Selasa,Hari Kerja,0.590833,0.871667,0.104475,casual,315,October
+2012-10-03,winter,1,10,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.6575,0.79375,0.0665458,casual,728,October
+2012-10-04,winter,1,10,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.6575,0.722917,0.117546,casual,891,October
+2012-10-05,winter,1,10,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.615,0.6275,0.10635,casual,1516,October
+2012-10-06,winter,1,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.554167,0.664167,0.268025,casual,3031,October
+2012-10-07,winter,1,10,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.415833,0.708333,0.141162,casual,781,October
+2012-10-08,winter,1,10,Berkabut,Libur,Senin,Bukan Hari Kerja,0.383333,0.709583,0.189679,casual,874,October
+2012-10-09,winter,1,10,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.446667,0.761667,0.1903,casual,601,October
+2012-10-10,winter,1,10,Cerah,Tidak Libur,Rabu,Hari Kerja,0.514167,0.630833,0.187821,casual,780,October
+2012-10-11,winter,1,10,Cerah,Tidak Libur,Kamis,Hari Kerja,0.435,0.463333,0.181596,casual,834,October
+2012-10-12,winter,1,10,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.4375,0.539167,0.235092,casual,1060,October
+2012-10-13,winter,1,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.393333,0.494583,0.146142,casual,2252,October
+2012-10-14,winter,1,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.521667,0.640417,0.278612,casual,2080,October
+2012-10-15,winter,1,10,Berkabut,Tidak Libur,Senin,Hari Kerja,0.561667,0.7075,0.296037,casual,760,October
+2012-10-16,winter,1,10,Cerah,Tidak Libur,Selasa,Hari Kerja,0.468333,0.558333,0.182221,casual,922,October
+2012-10-17,winter,1,10,Cerah,Tidak Libur,Rabu,Hari Kerja,0.455833,0.692917,0.101371,casual,979,October
+2012-10-18,winter,1,10,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.5225,0.728333,0.236937,casual,1008,October
+2012-10-19,winter,1,10,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.563333,0.815,0.134954,casual,753,October
+2012-10-20,winter,1,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.484167,0.572917,0.117537,casual,2806,October
+2012-10-21,winter,1,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.464167,0.51,0.166054,casual,2132,October
+2012-10-22,winter,1,10,Cerah,Tidak Libur,Senin,Hari Kerja,0.4875,0.568333,0.0814833,casual,830,October
+2012-10-23,winter,1,10,Cerah,Tidak Libur,Selasa,Hari Kerja,0.544167,0.641667,0.0945458,casual,841,October
+2012-10-24,winter,1,10,Cerah,Tidak Libur,Rabu,Hari Kerja,0.5875,0.63625,0.0727792,casual,795,October
+2012-10-25,winter,1,10,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.55,0.800417,0.124375,casual,875,October
+2012-10-26,winter,1,10,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.545833,0.807083,0.132467,casual,1182,October
+2012-10-27,winter,1,10,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.53,0.72,0.235692,casual,2643,October
+2012-10-28,winter,1,10,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.4775,0.694583,0.398008,casual,998,October
+2012-10-29,winter,1,10,Hujan Ringan,Tidak Libur,Senin,Hari Kerja,0.44,0.88,0.3582,casual,2,October
+2012-10-30,winter,1,10,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.318182,0.825455,0.213009,casual,87,October
+2012-10-31,winter,1,10,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.3575,0.666667,0.166667,casual,419,October
+2012-11-01,winter,1,11,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.365833,0.581667,0.157346,casual,466,November
+2012-11-02,winter,1,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.355,0.522083,0.266175,casual,618,November
+2012-11-03,winter,1,11,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.343333,0.49125,0.270529,casual,1029,November
+2012-11-04,winter,1,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.325833,0.532917,0.179108,casual,1201,November
+2012-11-05,winter,1,11,Cerah,Tidak Libur,Senin,Hari Kerja,0.319167,0.494167,0.236325,casual,378,November
+2012-11-06,winter,1,11,Cerah,Tidak Libur,Selasa,Hari Kerja,0.280833,0.567083,0.173513,casual,466,November
+2012-11-07,winter,1,11,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.295833,0.5475,0.304108,casual,326,November
+2012-11-08,winter,1,11,Cerah,Tidak Libur,Kamis,Hari Kerja,0.352174,0.333478,0.347835,casual,340,November
+2012-11-09,winter,1,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.361667,0.540833,0.214558,casual,709,November
+2012-11-10,winter,1,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.389167,0.645417,0.0578458,casual,2090,November
+2012-11-11,winter,1,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.420833,0.659167,0.1275,casual,2290,November
+2012-11-12,winter,1,11,Cerah,Libur,Senin,Bukan Hari Kerja,0.485,0.741667,0.173517,casual,1097,November
+2012-11-13,winter,1,11,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.343333,0.662917,0.342046,casual,327,November
+2012-11-14,winter,1,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.289167,0.552083,0.199625,casual,373,November
+2012-11-15,winter,1,11,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.321667,0.620417,0.152987,casual,320,November
+2012-11-16,winter,1,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.345,0.524583,0.171025,casual,484,November
+2012-11-17,winter,1,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.325,0.545417,0.179729,casual,1313,November
+2012-11-18,winter,1,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.3425,0.692917,0.227612,casual,922,November
+2012-11-19,winter,1,11,Berkabut,Tidak Libur,Senin,Hari Kerja,0.380833,0.623333,0.235067,casual,449,November
+2012-11-20,winter,1,11,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.374167,0.685,0.082725,casual,534,November
+2012-11-21,winter,1,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.353333,0.61375,0.103246,casual,615,November
+2012-11-22,winter,1,11,Cerah,Libur,Kamis,Bukan Hari Kerja,0.34,0.580417,0.0528708,casual,955,November
+2012-11-23,winter,1,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.368333,0.56875,0.148021,casual,1603,November
+2012-11-24,winter,1,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.278333,0.404583,0.376871,casual,532,November
+2012-11-25,winter,1,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.245833,0.468333,0.1505,casual,309,November
+2012-11-26,winter,1,11,Cerah,Tidak Libur,Senin,Hari Kerja,0.313333,0.535417,0.04665,casual,337,November
+2012-11-27,winter,1,11,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.291667,0.786667,0.237562,casual,123,November
+2012-11-28,winter,1,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.296667,0.50625,0.210821,casual,198,November
+2012-11-29,winter,1,11,Cerah,Tidak Libur,Kamis,Hari Kerja,0.28087,0.555652,0.115522,casual,243,November
+2012-11-30,winter,1,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.298333,0.649583,0.0584708,casual,362,November
+2012-12-01,winter,1,12,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.298333,0.806667,0.0597042,casual,951,December
+2012-12-02,winter,1,12,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.3475,0.823333,0.124379,casual,892,December
+2012-12-03,winter,1,12,Cerah,Tidak Libur,Senin,Hari Kerja,0.4525,0.7675,0.0827208,casual,555,December
+2012-12-04,winter,1,12,Cerah,Tidak Libur,Selasa,Hari Kerja,0.475833,0.73375,0.174129,casual,551,December
+2012-12-05,winter,1,12,Cerah,Tidak Libur,Rabu,Hari Kerja,0.438333,0.485,0.324021,casual,331,December
+2012-12-06,winter,1,12,Cerah,Tidak Libur,Kamis,Hari Kerja,0.255833,0.50875,0.174754,casual,340,December
+2012-12-07,winter,1,12,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.320833,0.764167,0.1306,casual,349,December
+2012-12-08,winter,1,12,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.381667,0.91125,0.101379,casual,1153,December
+2012-12-09,winter,1,12,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.384167,0.905417,0.157975,casual,441,December
+2012-12-10,winter,1,12,Berkabut,Tidak Libur,Senin,Hari Kerja,0.435833,0.925,0.190308,casual,329,December
+2012-12-11,winter,1,12,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.353333,0.596667,0.296037,casual,282,December
+2012-12-12,winter,1,12,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.2975,0.538333,0.162937,casual,310,December
+2012-12-13,winter,1,12,Cerah,Tidak Libur,Kamis,Hari Kerja,0.295833,0.485833,0.174129,casual,425,December
+2012-12-14,winter,1,12,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.281667,0.642917,0.131229,casual,429,December
+2012-12-15,winter,1,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.324167,0.650417,0.10635,casual,767,December
+2012-12-16,winter,1,12,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.3625,0.83875,0.100742,casual,538,December
+2012-12-17,winter,1,12,Berkabut,Tidak Libur,Senin,Hari Kerja,0.393333,0.907083,0.0982583,casual,212,December
+2012-12-18,winter,1,12,Cerah,Tidak Libur,Selasa,Hari Kerja,0.410833,0.66625,0.221404,casual,433,December
+2012-12-19,winter,1,12,Cerah,Tidak Libur,Rabu,Hari Kerja,0.3325,0.625417,0.184092,casual,333,December
+2012-12-20,winter,1,12,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.33,0.667917,0.132463,casual,314,December
+2012-12-21,springer,1,12,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.326667,0.556667,0.374383,casual,221,December
+2012-12-22,springer,1,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.265833,0.44125,0.407346,casual,205,December
+2012-12-23,springer,1,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.245833,0.515417,0.133083,casual,408,December
+2012-12-24,springer,1,12,Berkabut,Tidak Libur,Senin,Hari Kerja,0.231304,0.791304,0.0772304,casual,174,December
+2012-12-25,springer,1,12,Berkabut,Libur,Selasa,Bukan Hari Kerja,0.291304,0.734783,0.168726,casual,440,December
+2012-12-26,springer,1,12,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.243333,0.823333,0.316546,casual,9,December
+2012-12-27,springer,1,12,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.254167,0.652917,0.350133,casual,247,December
+2012-12-28,springer,1,12,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.253333,0.59,0.155471,casual,644,December
+2012-12-29,springer,1,12,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.253333,0.752917,0.124383,casual,159,December
+2012-12-30,springer,1,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.255833,0.483333,0.350754,casual,364,December
+2012-12-31,springer,1,12,Berkabut,Tidak Libur,Senin,Hari Kerja,0.215833,0.5775,0.154846,casual,439,December
+2011-01-01,springer,0,1,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.344167,0.805833,0.160446,registered,654,January
+2011-01-02,springer,0,1,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.363478,0.696087,0.248539,registered,670,January
+2011-01-03,springer,0,1,Cerah,Tidak Libur,Senin,Hari Kerja,0.196364,0.437273,0.248309,registered,1229,January
+2011-01-04,springer,0,1,Cerah,Tidak Libur,Selasa,Hari Kerja,0.2,0.590435,0.160296,registered,1454,January
+2011-01-05,springer,0,1,Cerah,Tidak Libur,Rabu,Hari Kerja,0.226957,0.436957,0.1869,registered,1518,January
+2011-01-06,springer,0,1,Cerah,Tidak Libur,Kamis,Hari Kerja,0.204348,0.518261,0.0895652,registered,1518,January
+2011-01-07,springer,0,1,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.196522,0.498696,0.168726,registered,1362,January
+2011-01-08,springer,0,1,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.165,0.535833,0.266804,registered,891,January
+2011-01-09,springer,0,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.138333,0.434167,0.36195,registered,768,January
+2011-01-10,springer,0,1,Cerah,Tidak Libur,Senin,Hari Kerja,0.150833,0.482917,0.223267,registered,1280,January
+2011-01-11,springer,0,1,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.169091,0.686364,0.122132,registered,1220,January
+2011-01-12,springer,0,1,Cerah,Tidak Libur,Rabu,Hari Kerja,0.172727,0.599545,0.304627,registered,1137,January
+2011-01-13,springer,0,1,Cerah,Tidak Libur,Kamis,Hari Kerja,0.165,0.470417,0.301,registered,1368,January
+2011-01-14,springer,0,1,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.16087,0.537826,0.126548,registered,1367,January
+2011-01-15,springer,0,1,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.233333,0.49875,0.157963,registered,1026,January
+2011-01-16,springer,0,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.231667,0.48375,0.188433,registered,953,January
+2011-01-17,springer,0,1,Berkabut,Libur,Senin,Bukan Hari Kerja,0.175833,0.5375,0.194017,registered,883,January
+2011-01-18,springer,0,1,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.216667,0.861667,0.146775,registered,674,January
+2011-01-19,springer,0,1,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.292174,0.741739,0.208317,registered,1572,January
+2011-01-20,springer,0,1,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.261667,0.538333,0.195904,registered,1844,January
+2011-01-21,springer,0,1,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.1775,0.457083,0.353242,registered,1468,January
+2011-01-22,springer,0,1,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.0591304,0.4,0.17197,registered,888,January
+2011-01-23,springer,0,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.0965217,0.436522,0.2466,registered,836,January
+2011-01-24,springer,0,1,Cerah,Tidak Libur,Senin,Hari Kerja,0.0973913,0.491739,0.15833,registered,1330,January
+2011-01-25,springer,0,1,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.223478,0.616957,0.129796,registered,1799,January
+2011-01-26,springer,0,1,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.2175,0.8625,0.29385,registered,472,January
+2011-01-27,springer,0,1,Cerah,Tidak Libur,Kamis,Hari Kerja,0.195,0.6875,0.113837,registered,416,January
+2011-01-28,springer,0,1,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.203478,0.793043,0.1233,registered,1129,January
+2011-01-29,springer,0,1,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.196522,0.651739,0.145365,registered,975,January
+2011-01-30,springer,0,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.216522,0.722174,0.0739826,registered,956,January
+2011-01-31,springer,0,1,Berkabut,Tidak Libur,Senin,Hari Kerja,0.180833,0.60375,0.187192,registered,1459,January
+2011-02-01,springer,0,2,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.192174,0.829565,0.053213,registered,1313,February
+2011-02-02,springer,0,2,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.26,0.775417,0.264308,registered,1454,February
+2011-02-03,springer,0,2,Cerah,Tidak Libur,Kamis,Hari Kerja,0.186957,0.437826,0.277752,registered,1489,February
+2011-02-04,springer,0,2,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.211304,0.585217,0.127839,registered,1620,February
+2011-02-05,springer,0,2,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.233333,0.929167,0.161079,registered,905,February
+2011-02-06,springer,0,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.285833,0.568333,0.1418,registered,1269,February
+2011-02-07,springer,0,2,Cerah,Tidak Libur,Senin,Hari Kerja,0.271667,0.738333,0.0454083,registered,1592,February
+2011-02-08,springer,0,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.220833,0.537917,0.36195,registered,1466,February
+2011-02-09,springer,0,2,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.134783,0.494783,0.188839,registered,1552,February
+2011-02-10,springer,0,2,Cerah,Tidak Libur,Kamis,Hari Kerja,0.144348,0.437391,0.221935,registered,1491,February
+2011-02-11,springer,0,2,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.189091,0.506364,0.10855,registered,1597,February
+2011-02-12,springer,0,2,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.2225,0.544167,0.203367,registered,1184,February
+2011-02-13,springer,0,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.316522,0.457391,0.260883,registered,1192,February
+2011-02-14,springer,0,2,Cerah,Tidak Libur,Senin,Hari Kerja,0.415,0.375833,0.417908,registered,1705,February
+2011-02-15,springer,0,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.266087,0.314348,0.291374,registered,1675,February
+2011-02-16,springer,0,2,Cerah,Tidak Libur,Rabu,Hari Kerja,0.318261,0.423478,0.251791,registered,1897,February
+2011-02-17,springer,0,2,Cerah,Tidak Libur,Kamis,Hari Kerja,0.435833,0.505,0.230104,registered,2216,February
+2011-02-18,springer,0,2,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.521667,0.516667,0.264925,registered,2348,February
+2011-02-19,springer,0,2,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.399167,0.187917,0.507463,registered,1103,February
+2011-02-20,springer,0,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.285217,0.407826,0.223235,registered,1173,February
+2011-02-21,springer,0,2,Berkabut,Libur,Senin,Bukan Hari Kerja,0.303333,0.605,0.307846,registered,912,February
+2011-02-22,springer,0,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.182222,0.577778,0.195683,registered,1376,February
+2011-02-23,springer,0,2,Cerah,Tidak Libur,Rabu,Hari Kerja,0.221739,0.423043,0.094113,registered,1778,February
+2011-02-24,springer,0,2,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.295652,0.697391,0.250496,registered,1707,February
+2011-02-25,springer,0,2,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.364348,0.712174,0.346539,registered,1341,February
+2011-02-26,springer,0,2,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.2825,0.537917,0.186571,registered,1545,February
+2011-02-27,springer,0,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.343478,0.68,0.125248,registered,1708,February
+2011-02-28,springer,0,2,Berkabut,Tidak Libur,Senin,Hari Kerja,0.407273,0.876364,0.289686,registered,1365,February
+2011-03-01,springer,0,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.266667,0.535,0.216425,registered,1714,March
+2011-03-02,springer,0,3,Cerah,Tidak Libur,Rabu,Hari Kerja,0.335,0.449583,0.307833,registered,1903,March
+2011-03-03,springer,0,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.198333,0.318333,0.225754,registered,1562,March
+2011-03-04,springer,0,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.261667,0.610417,0.203346,registered,1730,March
+2011-03-05,springer,0,3,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.384167,0.789167,0.251871,registered,1437,March
+2011-03-06,springer,0,3,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.376522,0.948261,0.343287,registered,491,March
+2011-03-07,springer,0,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.261739,0.551304,0.341352,registered,1628,March
+2011-03-08,springer,0,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.2925,0.420833,0.12065,registered,1817,March
+2011-03-09,springer,0,3,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.295833,0.775417,0.22015,registered,1700,March
+2011-03-10,springer,0,3,Hujan Ringan,Tidak Libur,Kamis,Hari Kerja,0.389091,0.0,0.261877,registered,577,March
+2011-03-11,springer,0,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.316522,0.649565,0.23297,registered,1730,March
+2011-03-12,springer,0,3,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.329167,0.594583,0.220775,registered,1408,March
+2011-03-13,springer,0,3,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.384348,0.527391,0.270604,registered,1435,March
+2011-03-14,springer,0,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.325217,0.496957,0.136926,registered,1687,March
+2011-03-15,springer,0,3,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.317391,0.655652,0.184309,registered,1767,March
+2011-03-16,springer,0,3,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.365217,0.776522,0.203117,registered,1871,March
+2011-03-17,springer,0,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.415,0.602917,0.209579,registered,2320,March
+2011-03-18,springer,0,3,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.54,0.525217,0.231017,registered,2355,March
+2011-03-19,springer,0,3,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.4725,0.379167,0.368167,registered,1693,March
+2011-03-20,springer,0,3,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.3325,0.47375,0.207721,registered,1424,March
+2011-03-21,summer,0,3,Berkabut,Tidak Libur,Senin,Hari Kerja,0.430435,0.737391,0.288783,registered,1676,March
+2011-03-22,summer,0,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.441667,0.624583,0.22575,registered,2243,March
+2011-03-23,summer,0,3,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.346957,0.839565,0.234261,registered,1918,March
+2011-03-24,summer,0,3,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.285,0.805833,0.243787,registered,1699,March
+2011-03-25,summer,0,3,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.264167,0.495,0.230725,registered,1910,March
+2011-03-26,summer,0,3,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.265833,0.394167,0.209571,registered,1515,March
+2011-03-27,summer,0,3,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.253043,0.493913,0.1843,registered,1221,March
+2011-03-28,summer,0,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.264348,0.302174,0.212204,registered,1806,March
+2011-03-29,summer,0,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.3025,0.314167,0.226996,registered,2108,March
+2011-03-30,summer,0,3,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.3,0.646667,0.172888,registered,1368,March
+2011-03-31,summer,0,3,Hujan Ringan,Tidak Libur,Kamis,Hari Kerja,0.268333,0.918333,0.217646,registered,1506,March
+2011-04-01,summer,0,4,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.3,0.68625,0.258708,registered,1920,April
+2011-04-02,summer,0,4,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.315,0.65375,0.197146,registered,1354,April
+2011-04-03,summer,0,4,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.378333,0.48,0.182213,registered,1598,April
+2011-04-04,summer,0,4,Cerah,Tidak Libur,Senin,Hari Kerja,0.573333,0.42625,0.385571,registered,2381,April
+2011-04-05,summer,0,4,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.414167,0.642083,0.388067,registered,1628,April
+2011-04-06,summer,0,4,Cerah,Tidak Libur,Rabu,Hari Kerja,0.390833,0.470833,0.263063,registered,2395,April
+2011-04-07,summer,0,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.4375,0.602917,0.162312,registered,2570,April
+2011-04-08,summer,0,4,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.335833,0.83625,0.226992,registered,1299,April
+2011-04-09,summer,0,4,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.3425,0.8775,0.133083,registered,1576,April
+2011-04-10,summer,0,4,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.426667,0.8575,0.146767,registered,1707,April
+2011-04-11,summer,0,4,Berkabut,Tidak Libur,Senin,Hari Kerja,0.595652,0.716956,0.324474,registered,2493,April
+2011-04-12,summer,0,4,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.5025,0.739167,0.274879,registered,1777,April
+2011-04-13,summer,0,4,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.4125,0.819167,0.250617,registered,1953,April
+2011-04-14,summer,0,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.4675,0.540417,0.1107,registered,2738,April
+2011-04-15,summer,0,4,Cerah,Libur,Jum'at,Bukan Hari Kerja,0.446667,0.67125,0.226375,registered,2484,April
+2011-04-16,summer,0,4,Hujan Ringan,Tidak Libur,Sabtu,Bukan Hari Kerja,0.430833,0.888333,0.340808,registered,674,April
+2011-04-17,summer,0,4,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.456667,0.479583,0.303496,registered,2186,April
+2011-04-18,summer,0,4,Cerah,Tidak Libur,Senin,Hari Kerja,0.5125,0.5425,0.163567,registered,2760,April
+2011-04-19,summer,0,4,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.505833,0.665833,0.157971,registered,2795,April
+2011-04-20,summer,0,4,Cerah,Tidak Libur,Rabu,Hari Kerja,0.595,0.614167,0.241925,registered,3331,April
+2011-04-21,summer,0,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.459167,0.407083,0.325258,registered,3444,April
+2011-04-22,summer,0,4,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.336667,0.729583,0.219521,registered,1506,April
+2011-04-23,summer,0,4,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.46,0.887917,0.230725,registered,2574,April
+2011-04-24,summer,0,4,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.581667,0.810833,0.192175,registered,2481,April
+2011-04-25,summer,0,4,Cerah,Tidak Libur,Senin,Hari Kerja,0.606667,0.776667,0.185333,registered,3300,April
+2011-04-26,summer,0,4,Cerah,Tidak Libur,Selasa,Hari Kerja,0.631667,0.729167,0.3265,registered,3722,April
+2011-04-27,summer,0,4,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.62,0.835417,0.3122,registered,3325,April
+2011-04-28,summer,0,4,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.6175,0.700833,0.320908,registered,3489,April
+2011-04-29,summer,0,4,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.51,0.457083,0.240063,registered,3717,April
+2011-04-30,summer,0,4,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.4725,0.503333,0.235075,registered,3347,April
+2011-05-01,summer,0,5,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.451667,0.762083,0.106354,registered,2213,May
+2011-05-02,summer,0,5,Berkabut,Tidak Libur,Senin,Hari Kerja,0.549167,0.73,0.183454,registered,3554,May
+2011-05-03,summer,0,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.616667,0.697083,0.342667,registered,3848,May
+2011-05-04,summer,0,5,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.414167,0.737083,0.328996,registered,2378,May
+2011-05-05,summer,0,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.459167,0.444167,0.295392,registered,3819,May
+2011-05-06,summer,0,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.479167,0.59,0.228246,registered,3714,May
+2011-05-07,summer,0,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.52,0.54125,0.16045,registered,3102,May
+2011-05-08,summer,0,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.528333,0.631667,0.0746375,registered,2932,May
+2011-05-09,summer,0,5,Cerah,Tidak Libur,Senin,Hari Kerja,0.5325,0.58875,0.176,registered,3698,May
+2011-05-10,summer,0,5,Cerah,Tidak Libur,Selasa,Hari Kerja,0.5325,0.489167,0.115671,registered,4109,May
+2011-05-11,summer,0,5,Cerah,Tidak Libur,Rabu,Hari Kerja,0.5425,0.632917,0.120642,registered,3632,May
+2011-05-12,summer,0,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.535,0.7475,0.189667,registered,4169,May
+2011-05-13,summer,0,5,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.5125,0.863333,0.179725,registered,3413,May
+2011-05-14,summer,0,5,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.520833,0.9225,0.13495,registered,2507,May
+2011-05-15,summer,0,5,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.5625,0.867083,0.152979,registered,2971,May
+2011-05-16,summer,0,5,Cerah,Tidak Libur,Senin,Hari Kerja,0.5775,0.787917,0.126871,registered,3185,May
+2011-05-17,summer,0,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.561667,0.837917,0.277354,registered,3445,May
+2011-05-18,summer,0,5,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.55,0.87,0.201492,registered,3319,May
+2011-05-19,summer,0,5,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.530833,0.829583,0.108213,registered,3840,May
+2011-05-20,summer,0,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.536667,0.719583,0.125013,registered,4008,May
+2011-05-21,summer,0,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.6025,0.626667,0.12065,registered,3547,May
+2011-05-22,summer,0,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.604167,0.749583,0.148008,registered,3084,May
+2011-05-23,summer,0,5,Berkabut,Tidak Libur,Senin,Hari Kerja,0.631667,0.81,0.233842,registered,3438,May
+2011-05-24,summer,0,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.66,0.740833,0.207092,registered,3833,May
+2011-05-25,summer,0,5,Cerah,Tidak Libur,Rabu,Hari Kerja,0.660833,0.69625,0.154233,registered,4238,May
+2011-05-26,summer,0,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.708333,0.6775,0.199642,registered,3919,May
+2011-05-27,summer,0,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.681667,0.65375,0.240679,registered,3808,May
+2011-05-28,summer,0,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.655833,0.729583,0.230092,registered,2757,May
+2011-05-29,summer,0,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.6675,0.81875,0.213938,registered,2433,May
+2011-05-30,summer,0,5,Cerah,Libur,Senin,Bukan Hari Kerja,0.733333,0.685,0.131225,registered,2549,May
+2011-05-31,summer,0,5,Cerah,Tidak Libur,Selasa,Hari Kerja,0.775,0.636667,0.111329,registered,3309,May
+2011-06-01,summer,0,6,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.764167,0.677083,0.207092,registered,3461,June
+2011-06-02,summer,0,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.715,0.305,0.292287,registered,4232,June
+2011-06-03,summer,0,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.62,0.354167,0.253121,registered,4414,June
+2011-06-04,summer,0,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.635,0.45625,0.123142,registered,3473,June
+2011-06-05,summer,0,6,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.648333,0.6525,0.138692,registered,3221,June
+2011-06-06,summer,0,6,Cerah,Tidak Libur,Senin,Hari Kerja,0.678333,0.6,0.121896,registered,3875,June
+2011-06-07,summer,0,6,Cerah,Tidak Libur,Selasa,Hari Kerja,0.7075,0.597917,0.187808,registered,4070,June
+2011-06-08,summer,0,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.775833,0.622083,0.136817,registered,3725,June
+2011-06-09,summer,0,6,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.808333,0.568333,0.149883,registered,3352,June
+2011-06-10,summer,0,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.755,0.605,0.140554,registered,3771,June
+2011-06-11,summer,0,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.725,0.654583,0.15485,registered,3237,June
+2011-06-12,summer,0,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.6925,0.747917,0.163567,registered,2993,June
+2011-06-13,summer,0,6,Cerah,Tidak Libur,Senin,Hari Kerja,0.635,0.494583,0.30535,registered,4157,June
+2011-06-14,summer,0,6,Cerah,Tidak Libur,Selasa,Hari Kerja,0.604167,0.507083,0.269283,registered,4164,June
+2011-06-15,summer,0,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.626667,0.471667,0.167912,registered,4411,June
+2011-06-16,summer,0,6,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.628333,0.688333,0.206471,registered,3222,June
+2011-06-17,summer,0,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.649167,0.735833,0.143029,registered,3981,June
+2011-06-18,summer,0,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.696667,0.670417,0.119408,registered,3312,June
+2011-06-19,summer,0,6,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.699167,0.666667,0.102,registered,3105,June
+2011-06-20,summer,0,6,Berkabut,Tidak Libur,Senin,Hari Kerja,0.635,0.74625,0.155475,registered,3311,June
+2011-06-21,fall,0,6,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.680833,0.770417,0.171025,registered,4061,June
+2011-06-22,fall,0,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.733333,0.7075,0.172262,registered,3846,June
+2011-06-23,fall,0,6,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.728333,0.703333,0.238804,registered,4044,June
+2011-06-24,fall,0,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.724167,0.573333,0.222025,registered,4022,June
+2011-06-25,fall,0,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.695,0.483333,0.209571,registered,3420,June
+2011-06-26,fall,0,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.68,0.513333,0.0945333,registered,3385,June
+2011-06-27,fall,0,6,Berkabut,Tidak Libur,Senin,Hari Kerja,0.6825,0.658333,0.107588,registered,3854,June
+2011-06-28,fall,0,6,Cerah,Tidak Libur,Selasa,Hari Kerja,0.744167,0.634167,0.144283,registered,3916,June
+2011-06-29,fall,0,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.728333,0.497917,0.261821,registered,4377,June
+2011-06-30,fall,0,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.696667,0.434167,0.185312,registered,4488,June
+2011-07-01,fall,0,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.7225,0.39625,0.102608,registered,4116,July
+2011-07-02,fall,0,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.738333,0.444583,0.115062,registered,2915,July
+2011-07-03,fall,0,7,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.716667,0.6825,0.228858,registered,2367,July
+2011-07-04,fall,0,7,Berkabut,Libur,Senin,Bukan Hari Kerja,0.726667,0.637917,0.0814792,registered,2978,July
+2011-07-05,fall,0,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.746667,0.590417,0.126258,registered,3634,July
+2011-07-06,fall,0,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.72,0.743333,0.149883,registered,3845,July
+2011-07-07,fall,0,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.75,0.65125,0.1592,registered,3838,July
+2011-07-08,fall,0,7,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.709167,0.757917,0.225129,registered,3348,July
+2011-07-09,fall,0,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.733333,0.609167,0.167912,registered,3348,July
+2011-07-10,fall,0,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.7475,0.578333,0.183471,registered,3138,July
+2011-07-11,fall,0,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.7625,0.635833,0.282337,registered,3363,July
+2011-07-12,fall,0,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.794167,0.559167,0.200254,registered,3596,July
+2011-07-13,fall,0,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.746667,0.631667,0.146133,registered,3594,July
+2011-07-14,fall,0,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.680833,0.47625,0.240667,registered,4196,July
+2011-07-15,fall,0,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.663333,0.59125,0.182833,registered,4220,July
+2011-07-16,fall,0,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.686667,0.585,0.208342,registered,3505,July
+2011-07-17,fall,0,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.719167,0.604167,0.245033,registered,3296,July
+2011-07-18,fall,0,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.746667,0.65125,0.215804,registered,3617,July
+2011-07-19,fall,0,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.776667,0.650417,0.1306,registered,3789,July
+2011-07-20,fall,0,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.768333,0.707083,0.113817,registered,3688,July
+2011-07-21,fall,0,7,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.815,0.69125,0.222021,registered,3152,July
+2011-07-22,fall,0,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.848333,0.580417,0.1331,registered,2825,July
+2011-07-23,fall,0,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.849167,0.5,0.131221,registered,2298,July
+2011-07-24,fall,0,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.83,0.550833,0.169171,registered,2556,July
+2011-07-25,fall,0,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.743333,0.757083,0.0908083,registered,3272,July
+2011-07-26,fall,0,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.771667,0.540833,0.200258,registered,3840,July
+2011-07-27,fall,0,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.775,0.402917,0.183463,registered,3901,July
+2011-07-28,fall,0,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.779167,0.583333,0.178479,registered,3784,July
+2011-07-29,fall,0,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.838333,0.5425,0.174138,registered,3176,July
+2011-07-30,fall,0,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.804167,0.465833,0.168537,registered,2916,July
+2011-07-31,fall,0,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.805833,0.480833,0.164813,registered,2778,July
+2011-08-01,fall,0,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.771667,0.550833,0.156717,registered,3537,August
+2011-08-02,fall,0,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.783333,0.49125,0.20585,registered,4044,August
+2011-08-03,fall,0,8,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.731667,0.6575,0.135583,registered,3107,August
+2011-08-04,fall,0,8,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.71,0.7575,0.19715,registered,3777,August
+2011-08-05,fall,0,8,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.710833,0.630833,0.184696,registered,3843,August
+2011-08-06,fall,0,8,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.716667,0.755,0.22825,registered,2773,August
+2011-08-07,fall,0,8,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.7425,0.752917,0.201487,registered,2487,August
+2011-08-08,fall,0,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.765,0.592083,0.192175,registered,3480,August
+2011-08-09,fall,0,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.775,0.570417,0.151121,registered,3695,August
+2011-08-10,fall,0,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.766667,0.424167,0.200258,registered,3896,August
+2011-08-11,fall,0,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.7175,0.42375,0.164796,registered,3980,August
+2011-08-12,fall,0,8,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.708333,0.415,0.125621,registered,3854,August
+2011-08-13,fall,0,8,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.685833,0.729583,0.211454,registered,2646,August
+2011-08-14,fall,0,8,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.676667,0.8175,0.222633,registered,2482,August
+2011-08-15,fall,0,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.665833,0.712083,0.208954,registered,3563,August
+2011-08-16,fall,0,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.700833,0.578333,0.236329,registered,4004,August
+2011-08-17,fall,0,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.723333,0.575417,0.143667,registered,4026,August
+2011-08-18,fall,0,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.711667,0.654583,0.233208,registered,3166,August
+2011-08-19,fall,0,8,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.685,0.722917,0.139308,registered,3356,August
+2011-08-20,fall,0,8,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.6975,0.674167,0.104467,registered,3277,August
+2011-08-21,fall,0,8,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.710833,0.77,0.248754,registered,2624,August
+2011-08-22,fall,0,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.691667,0.47,0.27675,registered,3925,August
+2011-08-23,fall,0,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.640833,0.455417,0.146763,registered,4614,August
+2011-08-24,fall,0,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.673333,0.605,0.253108,registered,4181,August
+2011-08-25,fall,0,8,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.684167,0.771667,0.210833,registered,3107,August
+2011-08-26,fall,0,8,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.7,0.76125,0.0839625,registered,3893,August
+2011-08-27,fall,0,8,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.68,0.85,0.375617,registered,889,August
+2011-08-28,fall,0,8,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.707059,0.561765,0.304659,registered,2919,August
+2011-08-29,fall,0,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.636667,0.554583,0.159825,registered,3905,August
+2011-08-30,fall,0,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.639167,0.548333,0.125008,registered,4429,August
+2011-08-31,fall,0,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.656667,0.597917,0.0833333,registered,4370,August
+2011-09-01,fall,0,9,Cerah,Tidak Libur,Kamis,Hari Kerja,0.655,0.639167,0.141796,registered,4332,September
+2011-09-02,fall,0,9,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.643333,0.727083,0.139929,registered,3852,September
+2011-09-03,fall,0,9,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.669167,0.716667,0.185325,registered,2549,September
+2011-09-04,fall,0,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.709167,0.742083,0.206467,registered,2419,September
+2011-09-05,fall,0,9,Berkabut,Libur,Senin,Bukan Hari Kerja,0.673333,0.790417,0.212696,registered,2115,September
+2011-09-06,fall,0,9,Hujan Ringan,Tidak Libur,Selasa,Hari Kerja,0.54,0.886957,0.343943,registered,2506,September
+2011-09-07,fall,0,9,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.599167,0.917083,0.0970208,registered,1878,September
+2011-09-08,fall,0,9,Hujan Ringan,Tidak Libur,Kamis,Hari Kerja,0.633913,0.939565,0.192748,registered,1689,September
+2011-09-09,fall,0,9,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.65,0.897917,0.124379,registered,3127,September
+2011-09-10,fall,0,9,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.66,0.75375,0.153608,registered,3595,September
+2011-09-11,fall,0,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.653333,0.71375,0.115054,registered,3413,September
+2011-09-12,fall,0,9,Cerah,Tidak Libur,Senin,Hari Kerja,0.644348,0.692174,0.088913,registered,4023,September
+2011-09-13,fall,0,9,Cerah,Tidak Libur,Selasa,Hari Kerja,0.650833,0.7125,0.141804,registered,4062,September
+2011-09-14,fall,0,9,Cerah,Tidak Libur,Rabu,Hari Kerja,0.673333,0.697083,0.1673,registered,4138,September
+2011-09-15,fall,0,9,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.5775,0.709167,0.271146,registered,3231,September
+2011-09-16,fall,0,9,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.469167,0.590417,0.164183,registered,4018,September
+2011-09-17,fall,0,9,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.491667,0.718333,0.189675,registered,3077,September
+2011-09-18,fall,0,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.5075,0.695,0.178483,registered,2921,September
+2011-09-19,fall,0,9,Berkabut,Tidak Libur,Senin,Hari Kerja,0.549167,0.69,0.151742,registered,3848,September
+2011-09-20,fall,0,9,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.561667,0.88125,0.134954,registered,3203,September
+2011-09-21,fall,0,9,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.595,0.9,0.0964042,registered,3813,September
+2011-09-22,fall,0,9,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.628333,0.902083,0.128125,registered,4240,September
+2011-09-23,winter,0,9,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.609167,0.9725,0.0783667,registered,2137,September
+2011-09-24,winter,0,9,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.606667,0.8625,0.0783833,registered,3647,September
+2011-09-25,winter,0,9,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.634167,0.845,0.0503792,registered,3466,September
+2011-09-26,winter,0,9,Berkabut,Tidak Libur,Senin,Hari Kerja,0.649167,0.848333,0.1107,registered,3946,September
+2011-09-27,winter,0,9,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.636667,0.885417,0.118171,registered,3643,September
+2011-09-28,winter,0,9,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.635,0.84875,0.148629,registered,3427,September
+2011-09-29,winter,0,9,Cerah,Tidak Libur,Kamis,Hari Kerja,0.616667,0.699167,0.172883,registered,4186,September
+2011-09-30,winter,0,9,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.564167,0.6475,0.206475,registered,4372,September
+2011-10-01,winter,0,10,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.41,0.75375,0.292296,registered,1949,October
+2011-10-02,winter,0,10,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.356667,0.791667,0.222013,registered,2302,October
+2011-10-03,winter,0,10,Berkabut,Tidak Libur,Senin,Hari Kerja,0.384167,0.760833,0.0833458,registered,3240,October
+2011-10-04,winter,0,10,Cerah,Tidak Libur,Selasa,Hari Kerja,0.484167,0.71,0.205854,registered,3970,October
+2011-10-05,winter,0,10,Cerah,Tidak Libur,Rabu,Hari Kerja,0.538333,0.647917,0.17725,registered,4267,October
+2011-10-06,winter,0,10,Cerah,Tidak Libur,Kamis,Hari Kerja,0.494167,0.620833,0.134954,registered,4126,October
+2011-10-07,winter,0,10,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.510833,0.684167,0.0223917,registered,4036,October
+2011-10-08,winter,0,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.521667,0.70125,0.0454042,registered,3174,October
+2011-10-09,winter,0,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.540833,0.7275,0.06345,registered,3114,October
+2011-10-10,winter,0,10,Cerah,Libur,Senin,Bukan Hari Kerja,0.570833,0.73375,0.0423042,registered,3603,October
+2011-10-11,winter,0,10,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.566667,0.80875,0.143042,registered,3896,October
+2011-10-12,winter,0,10,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.543333,0.90625,0.24815,registered,2199,October
+2011-10-13,winter,0,10,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.589167,0.896667,0.141787,registered,2623,October
+2011-10-14,winter,0,10,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.550833,0.71625,0.223883,registered,3115,October
+2011-10-15,winter,0,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.506667,0.483333,0.258083,registered,3318,October
+2011-10-16,winter,0,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.511667,0.486667,0.281717,registered,3293,October
+2011-10-17,winter,0,10,Cerah,Tidak Libur,Senin,Hari Kerja,0.534167,0.579583,0.175379,registered,3857,October
+2011-10-18,winter,0,10,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.5325,0.701667,0.110087,registered,4111,October
+2011-10-19,winter,0,10,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.541739,0.895217,0.243339,registered,2170,October
+2011-10-20,winter,0,10,Cerah,Tidak Libur,Kamis,Hari Kerja,0.475833,0.63625,0.422275,registered,3724,October
+2011-10-21,winter,0,10,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.4275,0.574167,0.221396,registered,3628,October
+2011-10-22,winter,0,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.4225,0.629167,0.0926667,registered,2809,October
+2011-10-23,winter,0,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.421667,0.74125,0.0995125,registered,2762,October
+2011-10-24,winter,0,10,Cerah,Tidak Libur,Senin,Hari Kerja,0.463333,0.772083,0.118792,registered,3488,October
+2011-10-25,winter,0,10,Cerah,Tidak Libur,Selasa,Hari Kerja,0.471667,0.622917,0.166658,registered,3992,October
+2011-10-26,winter,0,10,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.484167,0.720417,0.148642,registered,3490,October
+2011-10-27,winter,0,10,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.47,0.812917,0.197763,registered,2419,October
+2011-10-28,winter,0,10,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.330833,0.585833,0.229479,registered,3291,October
+2011-10-29,winter,0,10,Hujan Ringan,Tidak Libur,Sabtu,Bukan Hari Kerja,0.254167,0.8825,0.351371,registered,570,October
+2011-10-30,winter,0,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.319167,0.62375,0.176617,registered,2446,October
+2011-10-31,winter,0,10,Cerah,Tidak Libur,Senin,Hari Kerja,0.34,0.703333,0.10635,registered,3307,October
+2011-11-01,winter,0,11,Cerah,Tidak Libur,Selasa,Hari Kerja,0.400833,0.68375,0.135571,registered,3658,November
+2011-11-02,winter,0,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.3775,0.71875,0.0820917,registered,3816,November
+2011-11-03,winter,0,11,Cerah,Tidak Libur,Kamis,Hari Kerja,0.408333,0.702083,0.136817,registered,3656,November
+2011-11-04,winter,0,11,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.403333,0.6225,0.271779,registered,3576,November
+2011-11-05,winter,0,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.326667,0.519167,0.189062,registered,2770,November
+2011-11-06,winter,0,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.348333,0.734583,0.0920542,registered,2697,November
+2011-11-07,winter,0,11,Cerah,Tidak Libur,Senin,Hari Kerja,0.395,0.75875,0.057225,registered,3662,November
+2011-11-08,winter,0,11,Cerah,Tidak Libur,Selasa,Hari Kerja,0.408333,0.721667,0.0690375,registered,3829,November
+2011-11-09,winter,0,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.4,0.758333,0.0621958,registered,3804,November
+2011-11-10,winter,0,11,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.38,0.813333,0.189067,registered,2743,November
+2011-11-11,winter,0,11,Cerah,Libur,Jum'at,Bukan Hari Kerja,0.324167,0.44625,0.314675,registered,2928,November
+2011-11-12,winter,0,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.356667,0.552917,0.212062,registered,2792,November
+2011-11-13,winter,0,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.440833,0.458333,0.281721,registered,2713,November
+2011-11-14,winter,0,11,Cerah,Tidak Libur,Senin,Hari Kerja,0.53,0.587083,0.306596,registered,3891,November
+2011-11-15,winter,0,11,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.53,0.68875,0.199633,registered,3746,November
+2011-11-16,winter,0,11,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.456667,0.93,0.136829,registered,1672,November
+2011-11-17,winter,0,11,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.341667,0.575833,0.305362,registered,2914,November
+2011-11-18,winter,0,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.274167,0.41,0.168533,registered,3147,November
+2011-11-19,winter,0,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.329167,0.502083,0.224496,registered,2720,November
+2011-11-20,winter,0,11,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.463333,0.684583,0.18595,registered,2733,November
+2011-11-21,winter,0,11,Hujan Ringan,Tidak Libur,Senin,Hari Kerja,0.4475,0.91,0.138054,registered,2545,November
+2011-11-22,winter,0,11,Hujan Ringan,Tidak Libur,Selasa,Hari Kerja,0.416667,0.9625,0.118792,registered,1538,November
+2011-11-23,winter,0,11,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.440833,0.757917,0.335825,registered,2454,November
+2011-11-24,winter,0,11,Cerah,Libur,Kamis,Bukan Hari Kerja,0.373333,0.549167,0.167304,registered,935,November
+2011-11-25,winter,0,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.375,0.64375,0.0988958,registered,1697,November
+2011-11-26,winter,0,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.375833,0.681667,0.0684208,registered,1819,November
+2011-11-27,winter,0,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.459167,0.698333,0.208954,registered,2261,November
+2011-11-28,winter,0,11,Cerah,Tidak Libur,Senin,Hari Kerja,0.503478,0.743043,0.142122,registered,3614,November
+2011-11-29,winter,0,11,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.458333,0.830833,0.258092,registered,2818,November
+2011-11-30,winter,0,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.325,0.613333,0.271158,registered,3425,November
+2011-12-01,winter,0,12,Cerah,Tidak Libur,Kamis,Hari Kerja,0.3125,0.524583,0.220158,registered,3545,December
+2011-12-02,winter,0,12,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.314167,0.625833,0.100754,registered,3672,December
+2011-12-03,winter,0,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.299167,0.612917,0.0957833,registered,2908,December
+2011-12-04,winter,0,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.330833,0.775833,0.0839583,registered,2851,December
+2011-12-05,winter,0,12,Berkabut,Tidak Libur,Senin,Hari Kerja,0.385833,0.827083,0.0622083,registered,3578,December
+2011-12-06,winter,0,12,Hujan Ringan,Tidak Libur,Selasa,Hari Kerja,0.4625,0.949583,0.232583,registered,2468,December
+2011-12-07,winter,0,12,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.41,0.970417,0.266175,registered,655,December
+2011-12-08,winter,0,12,Cerah,Tidak Libur,Kamis,Hari Kerja,0.265833,0.58,0.240058,registered,3172,December
+2011-12-09,winter,0,12,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.290833,0.695833,0.0827167,registered,3359,December
+2011-12-10,winter,0,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.275,0.5075,0.233221,registered,2688,December
+2011-12-11,winter,0,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.220833,0.49,0.0665417,registered,2366,December
+2011-12-12,winter,0,12,Cerah,Tidak Libur,Senin,Hari Kerja,0.238333,0.670833,0.06345,registered,3167,December
+2011-12-13,winter,0,12,Cerah,Tidak Libur,Selasa,Hari Kerja,0.2825,0.59,0.14055,registered,3368,December
+2011-12-14,winter,0,12,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.3175,0.66375,0.0609583,registered,3562,December
+2011-12-15,winter,0,12,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.4225,0.634167,0.268042,registered,3528,December
+2011-12-16,winter,0,12,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.375,0.500417,0.260575,registered,3399,December
+2011-12-17,winter,0,12,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.258333,0.560833,0.243167,registered,2464,December
+2011-12-18,winter,0,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.238333,0.58625,0.169779,registered,2211,December
+2011-12-19,winter,0,12,Cerah,Tidak Libur,Senin,Hari Kerja,0.276667,0.6375,0.172896,registered,3143,December
+2011-12-20,winter,0,12,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.385833,0.595417,0.0615708,registered,3534,December
+2011-12-21,springer,0,12,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.428333,0.858333,0.2214,registered,2553,December
+2011-12-22,springer,0,12,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.423333,0.7575,0.047275,registered,2841,December
+2011-12-23,springer,0,12,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.373333,0.68625,0.274246,registered,2046,December
+2011-12-24,springer,0,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.3025,0.5425,0.190304,registered,856,December
+2011-12-25,springer,0,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.274783,0.681304,0.155091,registered,451,December
+2011-12-26,springer,0,12,Cerah,Libur,Senin,Bukan Hari Kerja,0.321739,0.506957,0.239465,registered,887,December
+2011-12-27,springer,0,12,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.325,0.7625,0.18845,registered,1059,December
+2011-12-28,springer,0,12,Cerah,Tidak Libur,Rabu,Hari Kerja,0.29913,0.503913,0.293961,registered,2047,December
+2011-12-29,springer,0,12,Cerah,Tidak Libur,Kamis,Hari Kerja,0.248333,0.574167,0.119412,registered,2169,December
+2011-12-30,springer,0,12,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.311667,0.636667,0.134337,registered,2508,December
+2011-12-31,springer,0,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.41,0.615833,0.220154,registered,1820,December
+2012-01-01,springer,1,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.37,0.6925,0.192167,registered,1608,January
+2012-01-02,springer,1,1,Cerah,Libur,Senin,Bukan Hari Kerja,0.273043,0.381304,0.329665,registered,1707,January
+2012-01-03,springer,1,1,Cerah,Tidak Libur,Selasa,Hari Kerja,0.15,0.44125,0.365671,registered,2147,January
+2012-01-04,springer,1,1,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.1075,0.414583,0.1847,registered,2273,January
+2012-01-05,springer,1,1,Cerah,Tidak Libur,Kamis,Hari Kerja,0.265833,0.524167,0.129987,registered,3132,January
+2012-01-06,springer,1,1,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.334167,0.542083,0.167908,registered,3791,January
+2012-01-07,springer,1,1,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.393333,0.531667,0.174758,registered,3451,January
+2012-01-08,springer,1,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.3375,0.465,0.191542,registered,2826,January
+2012-01-09,springer,1,1,Berkabut,Tidak Libur,Senin,Hari Kerja,0.224167,0.701667,0.0989,registered,2270,January
+2012-01-10,springer,1,1,Cerah,Tidak Libur,Selasa,Hari Kerja,0.308696,0.646522,0.187552,registered,3425,January
+2012-01-11,springer,1,1,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.274167,0.8475,0.131221,registered,2085,January
+2012-01-12,springer,1,1,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.3825,0.802917,0.180967,registered,3828,January
+2012-01-13,springer,1,1,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.274167,0.5075,0.378108,registered,3040,January
+2012-01-14,springer,1,1,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.18,0.4575,0.187183,registered,2160,January
+2012-01-15,springer,1,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.166667,0.419167,0.251258,registered,2027,January
+2012-01-16,springer,1,1,Cerah,Libur,Senin,Bukan Hari Kerja,0.19,0.5225,0.231358,registered,2081,January
+2012-01-17,springer,1,1,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.373043,0.716087,0.34913,registered,2808,January
+2012-01-18,springer,1,1,Cerah,Tidak Libur,Rabu,Hari Kerja,0.303333,0.443333,0.415429,registered,3267,January
+2012-01-19,springer,1,1,Cerah,Tidak Libur,Kamis,Hari Kerja,0.19,0.4975,0.220158,registered,3162,January
+2012-01-20,springer,1,1,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.2175,0.45,0.20275,registered,3048,January
+2012-01-21,springer,1,1,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.173333,0.83125,0.222642,registered,1234,January
+2012-01-22,springer,1,1,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.1625,0.79625,0.199638,registered,1781,January
+2012-01-23,springer,1,1,Berkabut,Tidak Libur,Senin,Hari Kerja,0.218333,0.91125,0.110708,registered,2287,January
+2012-01-24,springer,1,1,Cerah,Tidak Libur,Selasa,Hari Kerja,0.3425,0.835833,0.123767,registered,3900,January
+2012-01-25,springer,1,1,Cerah,Tidak Libur,Rabu,Hari Kerja,0.294167,0.64375,0.161071,registered,3803,January
+2012-01-26,springer,1,1,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.341667,0.769583,0.0733958,registered,3831,January
+2012-01-27,springer,1,1,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.425,0.74125,0.342667,registered,3187,January
+2012-01-28,springer,1,1,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.315833,0.543333,0.210829,registered,3248,January
+2012-01-29,springer,1,1,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.2825,0.31125,0.24005,registered,2685,January
+2012-01-30,springer,1,1,Cerah,Tidak Libur,Senin,Hari Kerja,0.269167,0.400833,0.215792,registered,3498,January
+2012-01-31,springer,1,1,Cerah,Tidak Libur,Selasa,Hari Kerja,0.39,0.416667,0.261817,registered,4185,January
+2012-02-01,springer,1,2,Cerah,Tidak Libur,Rabu,Hari Kerja,0.469167,0.507917,0.189067,registered,4275,February
+2012-02-02,springer,1,2,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.399167,0.672917,0.187187,registered,3571,February
+2012-02-03,springer,1,2,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.313333,0.526667,0.178496,registered,3841,February
+2012-02-04,springer,1,2,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.264167,0.779583,0.121896,registered,2448,February
+2012-02-05,springer,1,2,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.265833,0.687917,0.175996,registered,2629,February
+2012-02-06,springer,1,2,Cerah,Tidak Libur,Senin,Hari Kerja,0.282609,0.622174,0.1538,registered,3578,February
+2012-02-07,springer,1,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.354167,0.49625,0.147379,registered,4176,February
+2012-02-08,springer,1,2,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.256667,0.722917,0.133721,registered,2693,February
+2012-02-09,springer,1,2,Cerah,Tidak Libur,Kamis,Hari Kerja,0.265,0.562083,0.194037,registered,3667,February
+2012-02-10,springer,1,2,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.280833,0.54,0.116929,registered,3604,February
+2012-02-11,springer,1,2,Hujan Ringan,Tidak Libur,Sabtu,Bukan Hari Kerja,0.224167,0.73125,0.289796,registered,1977,February
+2012-02-12,springer,1,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.1275,0.464583,0.409212,registered,1456,February
+2012-02-13,springer,1,2,Cerah,Tidak Libur,Senin,Hari Kerja,0.2225,0.41125,0.167283,registered,3328,February
+2012-02-14,springer,1,2,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.319167,0.50875,0.141179,registered,3787,February
+2012-02-15,springer,1,2,Cerah,Tidak Libur,Rabu,Hari Kerja,0.348333,0.53125,0.1816,registered,4028,February
+2012-02-16,springer,1,2,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.316667,0.752917,0.091425,registered,2931,February
+2012-02-17,springer,1,2,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.343333,0.634583,0.205846,registered,3805,February
+2012-02-18,springer,1,2,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.346667,0.534583,0.190929,registered,2883,February
+2012-02-19,springer,1,2,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.28,0.515833,0.253112,registered,2071,February
+2012-02-20,springer,1,2,Cerah,Libur,Senin,Bukan Hari Kerja,0.28,0.507826,0.229083,registered,2627,February
+2012-02-21,springer,1,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.287826,0.594348,0.205717,registered,3614,February
+2012-02-22,springer,1,2,Cerah,Tidak Libur,Rabu,Hari Kerja,0.395833,0.567917,0.234471,registered,4379,February
+2012-02-23,springer,1,2,Cerah,Tidak Libur,Kamis,Hari Kerja,0.454167,0.554583,0.190913,registered,4546,February
+2012-02-24,springer,1,2,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.4075,0.7375,0.237567,registered,3241,February
+2012-02-25,springer,1,2,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.290833,0.395833,0.421642,registered,2415,February
+2012-02-26,springer,1,2,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.279167,0.41,0.205229,registered,2874,February
+2012-02-27,springer,1,2,Cerah,Tidak Libur,Senin,Hari Kerja,0.366667,0.490833,0.268033,registered,4069,February
+2012-02-28,springer,1,2,Cerah,Tidak Libur,Selasa,Hari Kerja,0.359167,0.395833,0.193417,registered,4134,February
+2012-02-29,springer,1,2,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.344348,0.804783,0.179117,registered,1769,February
+2012-03-01,springer,1,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.485833,0.615417,0.226987,registered,4665,March
+2012-03-02,springer,1,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.353333,0.657083,0.144904,registered,2948,March
+2012-03-03,springer,1,3,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.414167,0.62125,0.161079,registered,3110,March
+2012-03-04,springer,1,3,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.325833,0.403333,0.334571,registered,2713,March
+2012-03-05,springer,1,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.243333,0.50625,0.228858,registered,3130,March
+2012-03-06,springer,1,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.258333,0.456667,0.200875,registered,3735,March
+2012-03-07,springer,1,3,Cerah,Tidak Libur,Rabu,Hari Kerja,0.404167,0.513333,0.345779,registered,4484,March
+2012-03-08,springer,1,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.5275,0.5675,0.441563,registered,4896,March
+2012-03-09,springer,1,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.410833,0.407083,0.4148,registered,4122,March
+2012-03-10,springer,1,3,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.2875,0.350417,0.22575,registered,3150,March
+2012-03-11,springer,1,3,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.361739,0.476957,0.222587,registered,3253,March
+2012-03-12,springer,1,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.466667,0.489167,0.207713,registered,4460,March
+2012-03-13,springer,1,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.565,0.6175,0.23695,registered,5085,March
+2012-03-14,springer,1,3,Cerah,Tidak Libur,Rabu,Hari Kerja,0.5725,0.507083,0.115062,registered,5315,March
+2012-03-15,springer,1,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.5575,0.579583,0.149883,registered,5187,March
+2012-03-16,springer,1,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.435833,0.842083,0.113192,registered,3830,March
+2012-03-17,springer,1,3,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.514167,0.755833,0.110704,registered,4681,March
+2012-03-18,springer,1,3,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.4725,0.81,0.126883,registered,3685,March
+2012-03-19,springer,1,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.545,0.72875,0.162317,registered,5171,March
+2012-03-20,springer,1,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.560833,0.807917,0.121271,registered,5042,March
+2012-03-21,summer,1,3,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.531667,0.82125,0.0895583,registered,5108,March
+2012-03-22,summer,1,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.554167,0.83125,0.117562,registered,5537,March
+2012-03-23,summer,1,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.601667,0.694167,0.1163,registered,5893,March
+2012-03-24,summer,1,3,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.5025,0.885417,0.192783,registered,2339,March
+2012-03-25,summer,1,3,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.4375,0.880833,0.220775,registered,3464,March
+2012-03-26,summer,1,3,Cerah,Tidak Libur,Senin,Hari Kerja,0.445833,0.477917,0.386821,registered,4763,March
+2012-03-27,summer,1,3,Cerah,Tidak Libur,Selasa,Hari Kerja,0.323333,0.29,0.187192,registered,4571,March
+2012-03-28,summer,1,3,Cerah,Tidak Libur,Rabu,Hari Kerja,0.484167,0.48125,0.291671,registered,5024,March
+2012-03-29,summer,1,3,Cerah,Tidak Libur,Kamis,Hari Kerja,0.494167,0.439167,0.31965,registered,5299,March
+2012-03-30,summer,1,3,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.37,0.580833,0.138067,registered,4663,March
+2012-03-31,summer,1,3,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.424167,0.738333,0.250617,registered,3934,March
+2012-04-01,summer,1,4,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.425833,0.67625,0.172267,registered,3694,April
+2012-04-02,summer,1,4,Cerah,Tidak Libur,Senin,Hari Kerja,0.433913,0.504348,0.312139,registered,4728,April
+2012-04-03,summer,1,4,Cerah,Tidak Libur,Selasa,Hari Kerja,0.466667,0.396667,0.100133,registered,5424,April
+2012-04-04,summer,1,4,Cerah,Tidak Libur,Rabu,Hari Kerja,0.541667,0.469583,0.180975,registered,5378,April
+2012-04-05,summer,1,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.435,0.374167,0.219529,registered,5265,April
+2012-04-06,summer,1,4,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.403333,0.377083,0.300388,registered,4653,April
+2012-04-07,summer,1,4,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.4375,0.254167,0.274871,registered,3605,April
+2012-04-08,summer,1,4,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.5,0.275833,0.232596,registered,2939,April
+2012-04-09,summer,1,4,Cerah,Tidak Libur,Senin,Hari Kerja,0.489167,0.3175,0.358196,registered,4680,April
+2012-04-10,summer,1,4,Cerah,Tidak Libur,Selasa,Hari Kerja,0.446667,0.435,0.249375,registered,5099,April
+2012-04-11,summer,1,4,Cerah,Tidak Libur,Rabu,Hari Kerja,0.348696,0.469565,0.295274,registered,4380,April
+2012-04-12,summer,1,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.3975,0.46625,0.290429,registered,4746,April
+2012-04-13,summer,1,4,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.4425,0.408333,0.155471,registered,5146,April
+2012-04-14,summer,1,4,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.495,0.502917,0.190917,registered,4665,April
+2012-04-15,summer,1,4,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.606667,0.507917,0.225129,registered,4286,April
+2012-04-16,summer,1,4,Cerah,Libur,Senin,Bukan Hari Kerja,0.664167,0.561667,0.284829,registered,5172,April
+2012-04-17,summer,1,4,Cerah,Tidak Libur,Selasa,Hari Kerja,0.608333,0.390417,0.273629,registered,5702,April
+2012-04-18,summer,1,4,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.463333,0.569167,0.167912,registered,4020,April
+2012-04-19,summer,1,4,Cerah,Tidak Libur,Kamis,Hari Kerja,0.498333,0.6125,0.0659292,registered,5719,April
+2012-04-20,summer,1,4,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.526667,0.694583,0.149871,registered,5950,April
+2012-04-21,summer,1,4,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.57,0.682917,0.283587,registered,4083,April
+2012-04-22,summer,1,4,Hujan Ringan,Tidak Libur,Minggu,Bukan Hari Kerja,0.396667,0.835417,0.344546,registered,907,April
+2012-04-23,summer,1,4,Berkabut,Tidak Libur,Senin,Hari Kerja,0.321667,0.766667,0.303496,registered,3019,April
+2012-04-24,summer,1,4,Cerah,Tidak Libur,Selasa,Hari Kerja,0.413333,0.454167,0.249383,registered,5115,April
+2012-04-25,summer,1,4,Cerah,Tidak Libur,Rabu,Hari Kerja,0.476667,0.427917,0.118792,registered,5541,April
+2012-04-26,summer,1,4,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.498333,0.756667,0.176625,registered,4551,April
+2012-04-27,summer,1,4,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.4575,0.400833,0.347633,registered,5219,April
+2012-04-28,summer,1,4,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.376667,0.489583,0.129975,registered,3100,April
+2012-04-29,summer,1,4,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.458333,0.587083,0.116908,registered,4075,April
+2012-04-30,summer,1,4,Berkabut,Tidak Libur,Senin,Hari Kerja,0.464167,0.57,0.171638,registered,4907,April
+2012-05-01,summer,1,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.613333,0.659583,0.156096,registered,5087,May
+2012-05-02,summer,1,5,Cerah,Tidak Libur,Rabu,Hari Kerja,0.564167,0.797083,0.138058,registered,5502,May
+2012-05-03,summer,1,5,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.56,0.768333,0.133696,registered,5657,May
+2012-05-04,summer,1,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.6275,0.735417,0.162938,registered,5227,May
+2012-05-05,summer,1,5,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.621667,0.756667,0.152992,registered,4387,May
+2012-05-06,summer,1,5,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.5625,0.74,0.149879,registered,4224,May
+2012-05-07,summer,1,5,Berkabut,Tidak Libur,Senin,Hari Kerja,0.5375,0.664167,0.230721,registered,5265,May
+2012-05-08,summer,1,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.581667,0.685833,0.296029,registered,4990,May
+2012-05-09,summer,1,5,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.575,0.744167,0.216412,registered,4097,May
+2012-05-10,summer,1,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.505833,0.552083,0.314063,registered,5546,May
+2012-05-11,summer,1,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.533333,0.360417,0.236937,registered,5711,May
+2012-05-12,summer,1,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.564167,0.480417,0.123133,registered,4807,May
+2012-05-13,summer,1,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.6125,0.57625,0.225117,registered,3946,May
+2012-05-14,summer,1,5,Berkabut,Tidak Libur,Senin,Hari Kerja,0.573333,0.789583,0.212692,registered,2501,May
+2012-05-15,summer,1,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.611667,0.794583,0.147392,registered,4490,May
+2012-05-16,summer,1,5,Cerah,Tidak Libur,Rabu,Hari Kerja,0.636667,0.697917,0.122512,registered,6433,May
+2012-05-17,summer,1,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.593333,0.52,0.229475,registered,6142,May
+2012-05-18,summer,1,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.564167,0.523333,0.136817,registered,6118,May
+2012-05-19,summer,1,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.6,0.45625,0.083975,registered,4884,May
+2012-05-20,summer,1,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.620833,0.530417,0.254367,registered,4425,May
+2012-05-21,summer,1,5,Berkabut,Tidak Libur,Senin,Hari Kerja,0.598333,0.81125,0.233204,registered,3729,May
+2012-05-22,summer,1,5,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.615,0.765833,0.118167,registered,5254,May
+2012-05-23,summer,1,5,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.621667,0.774583,0.102,registered,4494,May
+2012-05-24,summer,1,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.655,0.716667,0.172896,registered,5711,May
+2012-05-25,summer,1,5,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.68,0.747083,0.14055,registered,5317,May
+2012-05-26,summer,1,5,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.6925,0.7325,0.198992,registered,3681,May
+2012-05-27,summer,1,5,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.69,0.697083,0.215171,registered,3308,May
+2012-05-28,summer,1,5,Cerah,Libur,Senin,Bukan Hari Kerja,0.7125,0.67625,0.196521,registered,3486,May
+2012-05-29,summer,1,5,Cerah,Tidak Libur,Selasa,Hari Kerja,0.7225,0.684583,0.2954,registered,4863,May
+2012-05-30,summer,1,5,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.656667,0.67,0.134329,registered,6110,May
+2012-05-31,summer,1,5,Cerah,Tidak Libur,Kamis,Hari Kerja,0.68,0.492917,0.195279,registered,6238,May
+2012-06-01,summer,1,6,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.654167,0.755417,0.237563,registered,3594,June
+2012-06-02,summer,1,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.583333,0.549167,0.186562,registered,5325,June
+2012-06-03,summer,1,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.6025,0.493333,0.184087,registered,5147,June
+2012-06-04,summer,1,6,Cerah,Tidak Libur,Senin,Hari Kerja,0.5975,0.487083,0.284833,registered,5927,June
+2012-06-05,summer,1,6,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.540833,0.613333,0.209575,registered,6033,June
+2012-06-06,summer,1,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.554167,0.61125,0.077125,registered,6028,June
+2012-06-07,summer,1,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.6025,0.567083,0.15735,registered,6456,June
+2012-06-08,summer,1,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.649167,0.467917,0.175383,registered,6248,June
+2012-06-09,summer,1,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.710833,0.437083,0.144287,registered,4790,June
+2012-06-10,summer,1,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.726667,0.538333,0.133721,registered,4374,June
+2012-06-11,summer,1,6,Berkabut,Tidak Libur,Senin,Hari Kerja,0.720833,0.587917,0.207713,registered,5647,June
+2012-06-12,summer,1,6,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.653333,0.833333,0.214546,registered,4495,June
+2012-06-13,summer,1,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.655833,0.582083,0.343279,registered,6248,June
+2012-06-14,summer,1,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.648333,0.569583,0.253733,registered,6183,June
+2012-06-15,summer,1,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.639167,0.589583,0.176617,registered,6102,June
+2012-06-16,summer,1,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.631667,0.504167,0.166667,registered,4739,June
+2012-06-17,summer,1,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.5925,0.59875,0.144904,registered,4344,June
+2012-06-18,summer,1,6,Berkabut,Tidak Libur,Senin,Hari Kerja,0.568333,0.777917,0.174746,registered,4446,June
+2012-06-19,summer,1,6,Cerah,Tidak Libur,Selasa,Hari Kerja,0.688333,0.69,0.148017,registered,5857,June
+2012-06-20,summer,1,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.7825,0.592083,0.113812,registered,5339,June
+2012-06-21,fall,1,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.805833,0.567917,0.118787,registered,5127,June
+2012-06-22,fall,1,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.7775,0.57375,0.182842,registered,4859,June
+2012-06-23,fall,1,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.731667,0.534583,0.179721,registered,4801,June
+2012-06-24,fall,1,6,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.743333,0.479167,0.145525,registered,4340,June
+2012-06-25,fall,1,6,Cerah,Tidak Libur,Senin,Hari Kerja,0.715833,0.504167,0.300383,registered,5640,June
+2012-06-26,fall,1,6,Cerah,Tidak Libur,Selasa,Hari Kerja,0.630833,0.373333,0.347642,registered,6365,June
+2012-06-27,fall,1,6,Cerah,Tidak Libur,Rabu,Hari Kerja,0.6975,0.36,0.271775,registered,6258,June
+2012-06-28,fall,1,6,Cerah,Tidak Libur,Kamis,Hari Kerja,0.749167,0.4225,0.17165,registered,5958,June
+2012-06-29,fall,1,6,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.834167,0.48875,0.165417,registered,4634,June
+2012-06-30,fall,1,6,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.765,0.60125,0.161071,registered,4232,June
+2012-07-01,fall,1,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.815833,0.51875,0.168529,registered,4110,July
+2012-07-02,fall,1,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.781667,0.447083,0.195267,registered,5323,July
+2012-07-03,fall,1,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.780833,0.492083,0.126237,registered,5608,July
+2012-07-04,fall,1,7,Cerah,Libur,Rabu,Bukan Hari Kerja,0.789167,0.53875,0.13495,registered,4841,July
+2012-07-05,fall,1,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.8275,0.457917,0.194029,registered,4836,July
+2012-07-06,fall,1,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.828333,0.450833,0.146142,registered,4841,July
+2012-07-07,fall,1,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.861667,0.492083,0.163554,registered,3392,July
+2012-07-08,fall,1,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.8225,0.57375,0.125629,registered,3469,July
+2012-07-09,fall,1,7,Berkabut,Tidak Libur,Senin,Hari Kerja,0.710833,0.683333,0.180975,registered,5571,July
+2012-07-10,fall,1,7,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.720833,0.6675,0.151737,registered,5336,July
+2012-07-11,fall,1,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.716667,0.633333,0.151733,registered,6289,July
+2012-07-12,fall,1,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.715833,0.529583,0.146775,registered,6414,July
+2012-07-13,fall,1,7,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.731667,0.485833,0.08085,registered,5988,July
+2012-07-14,fall,1,7,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.703333,0.699167,0.143679,registered,4614,July
+2012-07-15,fall,1,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.745833,0.717917,0.166667,registered,4111,July
+2012-07-16,fall,1,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.763333,0.645,0.164187,registered,5742,July
+2012-07-17,fall,1,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.818333,0.505833,0.114429,registered,5865,July
+2012-07-18,fall,1,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.793333,0.577083,0.137442,registered,4914,July
+2012-07-19,fall,1,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.77,0.600417,0.165429,registered,5703,July
+2012-07-20,fall,1,7,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.665833,0.844167,0.208967,registered,5123,July
+2012-07-21,fall,1,7,Hujan Ringan,Tidak Libur,Sabtu,Bukan Hari Kerja,0.595833,0.865417,0.2133,registered,3195,July
+2012-07-22,fall,1,7,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.6675,0.7625,0.0939208,registered,4866,July
+2012-07-23,fall,1,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.741667,0.694167,0.138683,registered,5831,July
+2012-07-24,fall,1,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.750833,0.655,0.211454,registered,6452,July
+2012-07-25,fall,1,7,Cerah,Tidak Libur,Rabu,Hari Kerja,0.724167,0.45,0.1648,registered,6790,July
+2012-07-26,fall,1,7,Cerah,Tidak Libur,Kamis,Hari Kerja,0.776667,0.596667,0.284813,registered,5825,July
+2012-07-27,fall,1,7,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.781667,0.594583,0.152992,registered,5645,July
+2012-07-28,fall,1,7,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.755833,0.613333,0.15735,registered,4451,July
+2012-07-29,fall,1,7,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.721667,0.62375,0.170396,registered,4444,July
+2012-07-30,fall,1,7,Cerah,Tidak Libur,Senin,Hari Kerja,0.730833,0.66875,0.153617,registered,6065,July
+2012-07-31,fall,1,7,Cerah,Tidak Libur,Selasa,Hari Kerja,0.713333,0.704167,0.165425,registered,6248,July
+2012-08-01,fall,1,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.7175,0.6775,0.141179,registered,6506,August
+2012-08-02,fall,1,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.7525,0.659583,0.129354,registered,6278,August
+2012-08-03,fall,1,8,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.765833,0.6425,0.215792,registered,5847,August
+2012-08-04,fall,1,8,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.793333,0.613333,0.257458,registered,4479,August
+2012-08-05,fall,1,8,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.769167,0.6525,0.290421,registered,3757,August
+2012-08-06,fall,1,8,Berkabut,Tidak Libur,Senin,Hari Kerja,0.7525,0.654167,0.129354,registered,5780,August
+2012-08-07,fall,1,8,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.735833,0.70375,0.116908,registered,5995,August
+2012-08-08,fall,1,8,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.75,0.672917,0.1107,registered,6271,August
+2012-08-09,fall,1,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.755833,0.620417,0.1561,registered,6090,August
+2012-08-10,fall,1,8,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.715833,0.715833,0.238813,registered,4721,August
+2012-08-11,fall,1,8,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.6925,0.732917,0.206479,registered,4052,August
+2012-08-12,fall,1,8,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.700833,0.530417,0.122512,registered,4362,August
+2012-08-13,fall,1,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.720833,0.545417,0.136212,registered,5676,August
+2012-08-14,fall,1,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.726667,0.686667,0.169158,registered,5656,August
+2012-08-15,fall,1,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.706667,0.619583,0.169771,registered,6149,August
+2012-08-16,fall,1,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.719167,0.519167,0.141796,registered,6267,August
+2012-08-17,fall,1,8,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.723333,0.570833,0.231354,registered,5665,August
+2012-08-18,fall,1,8,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.678333,0.603333,0.177867,registered,5038,August
+2012-08-19,fall,1,8,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.635833,0.711667,0.08645,registered,3341,August
+2012-08-20,fall,1,8,Berkabut,Tidak Libur,Senin,Hari Kerja,0.635833,0.734167,0.129979,registered,5504,August
+2012-08-21,fall,1,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.649167,0.67375,0.0727708,registered,5925,August
+2012-08-22,fall,1,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.6675,0.677083,0.0702833,registered,6281,August
+2012-08-23,fall,1,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.695833,0.635833,0.0845958,registered,6402,August
+2012-08-24,fall,1,8,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.7025,0.615,0.0721458,registered,6257,August
+2012-08-25,fall,1,8,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.661667,0.712917,0.244408,registered,4224,August
+2012-08-26,fall,1,8,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.653333,0.845833,0.228858,registered,3772,August
+2012-08-27,fall,1,8,Cerah,Tidak Libur,Senin,Hari Kerja,0.703333,0.730417,0.128733,registered,5928,August
+2012-08-28,fall,1,8,Cerah,Tidak Libur,Selasa,Hari Kerja,0.728333,0.62,0.190925,registered,6105,August
+2012-08-29,fall,1,8,Cerah,Tidak Libur,Rabu,Hari Kerja,0.685,0.552083,0.112562,registered,6520,August
+2012-08-30,fall,1,8,Cerah,Tidak Libur,Kamis,Hari Kerja,0.706667,0.590417,0.0771167,registered,6541,August
+2012-08-31,fall,1,8,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.764167,0.5875,0.168533,registered,5917,August
+2012-09-01,fall,1,9,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.753333,0.638333,0.113187,registered,3788,September
+2012-09-02,fall,1,9,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.696667,0.815,0.0640708,registered,3197,September
+2012-09-03,fall,1,9,Cerah,Libur,Senin,Bukan Hari Kerja,0.7075,0.790833,0.151121,registered,4069,September
+2012-09-04,fall,1,9,Cerah,Tidak Libur,Selasa,Hari Kerja,0.725833,0.755,0.236321,registered,5997,September
+2012-09-05,fall,1,9,Cerah,Tidak Libur,Rabu,Hari Kerja,0.736667,0.74125,0.187808,registered,6280,September
+2012-09-06,fall,1,9,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.696667,0.810417,0.142421,registered,5592,September
+2012-09-07,fall,1,9,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.703333,0.73625,0.171646,registered,6459,September
+2012-09-08,fall,1,9,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.659167,0.799167,0.281104,registered,4419,September
+2012-09-09,fall,1,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.61,0.5475,0.224496,registered,5657,September
+2012-09-10,fall,1,9,Cerah,Tidak Libur,Senin,Hari Kerja,0.583333,0.50375,0.258713,registered,6407,September
+2012-09-11,fall,1,9,Cerah,Tidak Libur,Selasa,Hari Kerja,0.5775,0.52,0.0920542,registered,6697,September
+2012-09-12,fall,1,9,Cerah,Tidak Libur,Rabu,Hari Kerja,0.599167,0.577083,0.131846,registered,6820,September
+2012-09-13,fall,1,9,Cerah,Tidak Libur,Kamis,Hari Kerja,0.6125,0.637083,0.0827208,registered,6750,September
+2012-09-14,fall,1,9,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.633333,0.6725,0.103863,registered,6630,September
+2012-09-15,fall,1,9,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.608333,0.501667,0.247521,registered,5554,September
+2012-09-16,fall,1,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.58,0.57,0.0901833,registered,5167,September
+2012-09-17,fall,1,9,Berkabut,Tidak Libur,Senin,Hari Kerja,0.580833,0.734583,0.151742,registered,5847,September
+2012-09-18,fall,1,9,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.623333,0.8725,0.357587,registered,3702,September
+2012-09-19,fall,1,9,Cerah,Tidak Libur,Rabu,Hari Kerja,0.5525,0.536667,0.215175,registered,6803,September
+2012-09-20,fall,1,9,Cerah,Tidak Libur,Kamis,Hari Kerja,0.546667,0.618333,0.118167,registered,6781,September
+2012-09-21,fall,1,9,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.599167,0.66875,0.154229,registered,6917,September
+2012-09-22,fall,1,9,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.65,0.646667,0.283583,registered,5883,September
+2012-09-23,winter,1,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.529167,0.467083,0.223258,registered,5453,September
+2012-09-24,winter,1,9,Cerah,Tidak Libur,Senin,Hari Kerja,0.514167,0.492917,0.142404,registered,6435,September
+2012-09-25,winter,1,9,Cerah,Tidak Libur,Selasa,Hari Kerja,0.55,0.57,0.236321,registered,6693,September
+2012-09-26,winter,1,9,Cerah,Tidak Libur,Rabu,Hari Kerja,0.635,0.630833,0.2444,registered,6946,September
+2012-09-27,winter,1,9,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.65,0.690833,0.134342,registered,6642,September
+2012-09-28,winter,1,9,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.619167,0.69,0.164179,registered,6370,September
+2012-09-29,winter,1,9,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.5425,0.542917,0.227604,registered,5966,September
+2012-09-30,winter,1,9,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.526667,0.583333,0.134958,registered,4874,September
+2012-10-01,winter,1,10,Berkabut,Tidak Libur,Senin,Hari Kerja,0.520833,0.649167,0.0908042,registered,6015,October
+2012-10-02,winter,1,10,Hujan Ringan,Tidak Libur,Selasa,Hari Kerja,0.590833,0.871667,0.104475,registered,4324,October
+2012-10-03,winter,1,10,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.6575,0.79375,0.0665458,registered,6844,October
+2012-10-04,winter,1,10,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.6575,0.722917,0.117546,registered,6437,October
+2012-10-05,winter,1,10,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.615,0.6275,0.10635,registered,6640,October
+2012-10-06,winter,1,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.554167,0.664167,0.268025,registered,4934,October
+2012-10-07,winter,1,10,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.415833,0.708333,0.141162,registered,2729,October
+2012-10-08,winter,1,10,Berkabut,Libur,Senin,Bukan Hari Kerja,0.383333,0.709583,0.189679,registered,4604,October
+2012-10-09,winter,1,10,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.446667,0.761667,0.1903,registered,5791,October
+2012-10-10,winter,1,10,Cerah,Tidak Libur,Rabu,Hari Kerja,0.514167,0.630833,0.187821,registered,6911,October
+2012-10-11,winter,1,10,Cerah,Tidak Libur,Kamis,Hari Kerja,0.435,0.463333,0.181596,registered,6736,October
+2012-10-12,winter,1,10,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.4375,0.539167,0.235092,registered,6222,October
+2012-10-13,winter,1,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.393333,0.494583,0.146142,registered,4857,October
+2012-10-14,winter,1,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.521667,0.640417,0.278612,registered,4559,October
+2012-10-15,winter,1,10,Berkabut,Tidak Libur,Senin,Hari Kerja,0.561667,0.7075,0.296037,registered,5115,October
+2012-10-16,winter,1,10,Cerah,Tidak Libur,Selasa,Hari Kerja,0.468333,0.558333,0.182221,registered,6612,October
+2012-10-17,winter,1,10,Cerah,Tidak Libur,Rabu,Hari Kerja,0.455833,0.692917,0.101371,registered,6482,October
+2012-10-18,winter,1,10,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.5225,0.728333,0.236937,registered,6501,October
+2012-10-19,winter,1,10,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.563333,0.815,0.134954,registered,4671,October
+2012-10-20,winter,1,10,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.484167,0.572917,0.117537,registered,5284,October
+2012-10-21,winter,1,10,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.464167,0.51,0.166054,registered,4692,October
+2012-10-22,winter,1,10,Cerah,Tidak Libur,Senin,Hari Kerja,0.4875,0.568333,0.0814833,registered,6228,October
+2012-10-23,winter,1,10,Cerah,Tidak Libur,Selasa,Hari Kerja,0.544167,0.641667,0.0945458,registered,6625,October
+2012-10-24,winter,1,10,Cerah,Tidak Libur,Rabu,Hari Kerja,0.5875,0.63625,0.0727792,registered,6898,October
+2012-10-25,winter,1,10,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.55,0.800417,0.124375,registered,6484,October
+2012-10-26,winter,1,10,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.545833,0.807083,0.132467,registered,6262,October
+2012-10-27,winter,1,10,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.53,0.72,0.235692,registered,5209,October
+2012-10-28,winter,1,10,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.4775,0.694583,0.398008,registered,3461,October
+2012-10-29,winter,1,10,Hujan Ringan,Tidak Libur,Senin,Hari Kerja,0.44,0.88,0.3582,registered,20,October
+2012-10-30,winter,1,10,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.318182,0.825455,0.213009,registered,1009,October
+2012-10-31,winter,1,10,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.3575,0.666667,0.166667,registered,5147,October
+2012-11-01,winter,1,11,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.365833,0.581667,0.157346,registered,5520,November
+2012-11-02,winter,1,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.355,0.522083,0.266175,registered,5229,November
+2012-11-03,winter,1,11,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.343333,0.49125,0.270529,registered,4109,November
+2012-11-04,winter,1,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.325833,0.532917,0.179108,registered,3906,November
+2012-11-05,winter,1,11,Cerah,Tidak Libur,Senin,Hari Kerja,0.319167,0.494167,0.236325,registered,4881,November
+2012-11-06,winter,1,11,Cerah,Tidak Libur,Selasa,Hari Kerja,0.280833,0.567083,0.173513,registered,5220,November
+2012-11-07,winter,1,11,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.295833,0.5475,0.304108,registered,4709,November
+2012-11-08,winter,1,11,Cerah,Tidak Libur,Kamis,Hari Kerja,0.352174,0.333478,0.347835,registered,4975,November
+2012-11-09,winter,1,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.361667,0.540833,0.214558,registered,5283,November
+2012-11-10,winter,1,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.389167,0.645417,0.0578458,registered,4446,November
+2012-11-11,winter,1,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.420833,0.659167,0.1275,registered,4562,November
+2012-11-12,winter,1,11,Cerah,Libur,Senin,Bukan Hari Kerja,0.485,0.741667,0.173517,registered,5172,November
+2012-11-13,winter,1,11,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.343333,0.662917,0.342046,registered,3767,November
+2012-11-14,winter,1,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.289167,0.552083,0.199625,registered,5122,November
+2012-11-15,winter,1,11,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.321667,0.620417,0.152987,registered,5125,November
+2012-11-16,winter,1,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.345,0.524583,0.171025,registered,5214,November
+2012-11-17,winter,1,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.325,0.545417,0.179729,registered,4316,November
+2012-11-18,winter,1,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.3425,0.692917,0.227612,registered,3747,November
+2012-11-19,winter,1,11,Berkabut,Tidak Libur,Senin,Hari Kerja,0.380833,0.623333,0.235067,registered,5050,November
+2012-11-20,winter,1,11,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.374167,0.685,0.082725,registered,5100,November
+2012-11-21,winter,1,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.353333,0.61375,0.103246,registered,4531,November
+2012-11-22,winter,1,11,Cerah,Libur,Kamis,Bukan Hari Kerja,0.34,0.580417,0.0528708,registered,1470,November
+2012-11-23,winter,1,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.368333,0.56875,0.148021,registered,2307,November
+2012-11-24,winter,1,11,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.278333,0.404583,0.376871,registered,1745,November
+2012-11-25,winter,1,11,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.245833,0.468333,0.1505,registered,2115,November
+2012-11-26,winter,1,11,Cerah,Tidak Libur,Senin,Hari Kerja,0.313333,0.535417,0.04665,registered,4750,November
+2012-11-27,winter,1,11,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.291667,0.786667,0.237562,registered,3836,November
+2012-11-28,winter,1,11,Cerah,Tidak Libur,Rabu,Hari Kerja,0.296667,0.50625,0.210821,registered,5062,November
+2012-11-29,winter,1,11,Cerah,Tidak Libur,Kamis,Hari Kerja,0.28087,0.555652,0.115522,registered,5080,November
+2012-11-30,winter,1,11,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.298333,0.649583,0.0584708,registered,5306,November
+2012-12-01,winter,1,12,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.298333,0.806667,0.0597042,registered,4240,December
+2012-12-02,winter,1,12,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.3475,0.823333,0.124379,registered,3757,December
+2012-12-03,winter,1,12,Cerah,Tidak Libur,Senin,Hari Kerja,0.4525,0.7675,0.0827208,registered,5679,December
+2012-12-04,winter,1,12,Cerah,Tidak Libur,Selasa,Hari Kerja,0.475833,0.73375,0.174129,registered,6055,December
+2012-12-05,winter,1,12,Cerah,Tidak Libur,Rabu,Hari Kerja,0.438333,0.485,0.324021,registered,5398,December
+2012-12-06,winter,1,12,Cerah,Tidak Libur,Kamis,Hari Kerja,0.255833,0.50875,0.174754,registered,5035,December
+2012-12-07,winter,1,12,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.320833,0.764167,0.1306,registered,4659,December
+2012-12-08,winter,1,12,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.381667,0.91125,0.101379,registered,4429,December
+2012-12-09,winter,1,12,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.384167,0.905417,0.157975,registered,2787,December
+2012-12-10,winter,1,12,Berkabut,Tidak Libur,Senin,Hari Kerja,0.435833,0.925,0.190308,registered,4841,December
+2012-12-11,winter,1,12,Berkabut,Tidak Libur,Selasa,Hari Kerja,0.353333,0.596667,0.296037,registered,5219,December
+2012-12-12,winter,1,12,Berkabut,Tidak Libur,Rabu,Hari Kerja,0.2975,0.538333,0.162937,registered,5009,December
+2012-12-13,winter,1,12,Cerah,Tidak Libur,Kamis,Hari Kerja,0.295833,0.485833,0.174129,registered,5107,December
+2012-12-14,winter,1,12,Cerah,Tidak Libur,Jum'at,Hari Kerja,0.281667,0.642917,0.131229,registered,5182,December
+2012-12-15,winter,1,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.324167,0.650417,0.10635,registered,4280,December
+2012-12-16,winter,1,12,Berkabut,Tidak Libur,Minggu,Bukan Hari Kerja,0.3625,0.83875,0.100742,registered,3248,December
+2012-12-17,winter,1,12,Berkabut,Tidak Libur,Senin,Hari Kerja,0.393333,0.907083,0.0982583,registered,4373,December
+2012-12-18,winter,1,12,Cerah,Tidak Libur,Selasa,Hari Kerja,0.410833,0.66625,0.221404,registered,5124,December
+2012-12-19,winter,1,12,Cerah,Tidak Libur,Rabu,Hari Kerja,0.3325,0.625417,0.184092,registered,4934,December
+2012-12-20,winter,1,12,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.33,0.667917,0.132463,registered,3814,December
+2012-12-21,springer,1,12,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.326667,0.556667,0.374383,registered,3402,December
+2012-12-22,springer,1,12,Cerah,Tidak Libur,Sabtu,Bukan Hari Kerja,0.265833,0.44125,0.407346,registered,1544,December
+2012-12-23,springer,1,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.245833,0.515417,0.133083,registered,1379,December
+2012-12-24,springer,1,12,Berkabut,Tidak Libur,Senin,Hari Kerja,0.231304,0.791304,0.0772304,registered,746,December
+2012-12-25,springer,1,12,Berkabut,Libur,Selasa,Bukan Hari Kerja,0.291304,0.734783,0.168726,registered,573,December
+2012-12-26,springer,1,12,Hujan Ringan,Tidak Libur,Rabu,Hari Kerja,0.243333,0.823333,0.316546,registered,432,December
+2012-12-27,springer,1,12,Berkabut,Tidak Libur,Kamis,Hari Kerja,0.254167,0.652917,0.350133,registered,1867,December
+2012-12-28,springer,1,12,Berkabut,Tidak Libur,Jum'at,Hari Kerja,0.253333,0.59,0.155471,registered,2451,December
+2012-12-29,springer,1,12,Berkabut,Tidak Libur,Sabtu,Bukan Hari Kerja,0.253333,0.752917,0.124383,registered,1182,December
+2012-12-30,springer,1,12,Cerah,Tidak Libur,Minggu,Bukan Hari Kerja,0.255833,0.483333,0.350754,registered,1432,December
+2012-12-31,springer,1,12,Berkabut,Tidak Libur,Senin,Hari Kerja,0.215833,0.5775,0.154846,registered,2290,December
